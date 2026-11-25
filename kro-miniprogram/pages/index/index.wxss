@@ -1,0 +1,67 @@
+.home {
+    min-height: 100vh;
+    padding: 32rpx 28rpx 60rpx;
+    box-sizing: border-box;
+    background:
+        radial-gradient(circle at 80% 8%, rgba(245,214,122,0.18), transparent 40%),
+        linear-gradient(180deg, #241a0c 0%, #1a1208 100%);
+}
+.state-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 160rpx;
+    color: #c8b78e;
+    font-size: 26rpx;
+    gap: 24rpx;
+}
+.spinner {
+    width: 56rpx; height: 56rpx;
+    border: 6rpx solid #5a4522;
+    border-top-color: #f5d67a;
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.hint { margin-top: 24rpx; font-size: 22rpx; color: #8a7a58; }
+
+.banner {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 320rpx;
+    padding-top: 54rpx;
+    margin-bottom: 28rpx;
+    border: 3rpx solid #8a6a34;
+    border-radius: 24rpx;
+    overflow: hidden;
+    background: linear-gradient(180deg, #2f5a3a 0%, #1f3d2a 60%, #241a0c 100%);
+    box-shadow: 0 10rpx 30rpx rgba(0,0,0,0.5), inset 0 0 60rpx rgba(0,0,0,0.3);
+}
+.sun {
+    position: absolute; top: -40rpx; right: 60rpx;
+    width: 200rpx; height: 200rpx; border-radius: 50%;
+    background: radial-gradient(circle, rgba(245,214,122,0.5), rgba(245,214,122,0) 70%);
+}
+.banner-sub { font-size: 22rpx; letter-spacing: 4rpx; color: #d8c187; }
+.banner-title { margin-top: 8rpx; font-size: 64rpx; line-height: 1.1; }
+.banner-title2 { font-size: 46rpx; letter-spacing: 16rpx; }
+.banner-tag { margin-top: 20rpx; font-size: 22rpx; color: #bcd49a; }
+
+.progress-card { padding: 24rpx 28rpx; margin-bottom: 28rpx; }
+.prog-row { display: flex; flex-direction: column; }
+.prog-label { font-size: 24rpx; font-weight: 700; color: #6b4a12; }
+.prog-value { margin-top: 8rpx; font-size: 24rpx; color: #5a4522; }
+
+.menu-list { display: flex; flex-direction: column; gap: 22rpx; }
+.menu-item { display: flex; align-items: center; padding: 26rpx 28rpx; }
+.menu-icon { width: 64rpx; font-size: 48rpx; text-align: center; }
+.menu-text { flex: 1; display: flex; flex-direction: column; margin-left: 16rpx; }
+.menu-title { font-size: 32rpx; font-weight: 700; }
+.menu-desc { margin-top: 6rpx; font-size: 22rpx; color: #d8c187; }
+.menu-arrow { font-size: 48rpx; color: #f5d67a; }
+
+.footer { display: flex; flex-direction: column; align-items: center; margin-top: 40rpx; gap: 16rpx; }
+.user-line { font-size: 22rpx; color: #8a7a58; }
+.logout { font-size: 24rpx; color: #b98a5a; text-decoration: underline; }

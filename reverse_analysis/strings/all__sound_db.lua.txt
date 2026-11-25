@@ -1,0 +1,542 @@
+@./all/sound_db.lua
+PB+
+alias
+insert
+contains
+table
+files
+append
+sound_extras
+/extra.lua
+groups
+/groups.lua
+sounds
+/sounds.lua
+active_sources
+max_sources
+pairs
+source_groups
+/settings.lua
+load
+/files
+files_path
+path
+path:%s
+debug
+   !!!!"""###$$$$%%&&&&'''''''''(((((((&&$$---..../////////0000000..344455555577!!Blog
+self
+path
+f_settings
+gid
+group
+f_sounds
+wf_groups
+of_extra
+sound
+sound queue loaded
+remove
+table
+group %s done (%d/%d)
+info
+traceback
+debug$Error in sound_db load coro: %s
+error
+group_progress
+groups_done
+dead
+status
+resume
+load_group
+create
+coroutine
+groups_total
+progress
+load_queue
+load_queue_current
+     !!!!!!"%%%%&&''(())log
+self
+`name
+.suc
+'err
+groups_done
+progress
+load_queue_current
+groups_total
+load_queue
+insert
+table
+queued %s
+info
+log
+self
+name
+1Done loading sounds from group %s - time: %s
+info Created audio source for %s
+newSource
+audio
+pcall
+isFile
+filesystem
+collectgarbage
+yield
+coroutine
+getError
+Thread error:%s
+OK:Failed to create audio source for file: %s. Error: %s
+ERROR
+remove
+DONE
+pop
+isRunning
+QUIT
+zmod
+push
+/%s
+files_path
+format
+string
+source_uses
+sources
+static
+global_source_mode
+unpack
+getAffinity
+getdump) ++++ SOUND_DB THREAD %s AFFINITY %s
+paranoid
+setAffinity
+start
+newChannel
+newThread
+thread&   getting sound %s from group %s
+sounds
+stream
+insert
+table
+pairs
+files
+group_progress
+sounds %s already loaded
+sounds_uses
+sound group %s not found
+error
+groups
+loading sound group %s
+debug
+getTime
+timer
+love
+           
+)))-.////000001111222233333344445555666666666688888888/<<<<===>>>>>>>>????@@@@@@BBBBBBBCCDDDDEEEEFFFFGGGGGG<<LLLLMMMMMLLQRRRRRSSSTTTTTUUUVVWWWXXZZZZZZ[[\\\\\\\]]^^____```bdddddddeeeeeghhhhjkkklnooppptuuuuvvvwwwwwwwwxxxxyyyyyy{{{{{{{|||||||}}}}}}}~~~~
+log
+_THREADS_ENABLED
+_MAX_THREADS
+_LOAD_AUDIO_THREAD_CODE
+self
+name
+yielding
+filter
+rt_start
+files
+group
+sound
+load_threads
+th_i
+-th
+(cin
+$cout
+0item
+0fn
+-stream
+-mode
+%file
+cin
+item
+yield_every
+Mth
+?cin
+?cout
+?result
+!r1
+master_src
+yield_every
+Fitem
+Ffn
+Cstream
+Cmode
+;file
+!ok
+master_src
+collectgarbage.  sound source %s still used by %s groups
+  sound source deleted: %s
+paranoid
+source_uses
+stop
+sources
+unpack
+sounds
+stream
+insert
+table
+pairs
+files
+unloading sound group %s2sound group %s has keep flag. skipping unload
+keep
+groups sound group %s still in use
+debug-sound group %s not loaded. cannot unload
+error
+sounds_uses
+           
+%%%%&&&''''((((()))((+++++,,,,,---...//////1111111%%667log
+self
+name
+group
+{files
+sound
+.item
+.fn
++stream
+request_queue
+insert
+qts
+options
+merge
+table
+tostring
+SOUND WITH ID %s NOT FOUND
+error
+sounds
+log
+self
+)id
+)options
+)opts
+req
+DSound %s not interruptible nor loopable. Ignoring stop request.
+stop_queue
+insert
+table
+Sound %s stopping queued
+paranoid
+interruptible
+loop
+sounds
+sound_db
+log
+self
+%id
+%opts
+stop_req
+stop_queue
+insert
+table
+gid
+Group %s stopping queued#Stopping sources for group: %s
+paranoid
+log
+sound_db
+self
+gid
+stop_req
+ref_counters
+stop
+self
+pause
+source
+active_sources
+pairs
+paused
+self
+gid
+group_active_sources
+ast
+resume
+source
+active_sources
+pairs
+paused
+self
+gid
+group_active_sources
+ast
+No such sound id: %s
+error
+active_sources
+pairs
+source_group
+sounds
+sound_db
+log
+self
+gid
+ast
+set_groups_gains
+REFCOUNTED
+TAUNTS
+SWORDS
+SPECIALS
+SFX
+GUI
+EXPLOSIONS
+DEATH
+BULLETS
+sound_db
+self
+gain
+fx_groups
+MUSIC
+set_groups_gains
+sound_db
+self
+gain
+ref_vol
+setVolume
+source
+pairs
+group_gains
+active_sources
+sound_db
+self
+ggs
+active_sources
+group_gains
+gid
+gain
+ast
+stop
+source&about to stop source %s (ID = %s)
+debug
+active_sources
+pairs sound %s refcount is now %d
+ref_counters
+ref_counted
+sounds
+gid
+id5Stoping sources for stop request {id=%s, gid=%s}
+paranoid
+log
+self
+Creq
+Crc
+gid
+group_active_sources
+ast
+play
+qts
+delay
+options
+Reclaiming source %s
+paranoid
+isStopped
+source
+pairs
+remove
+table
+request_queue
+ref_counters
+active_sources
+_stop_sources
+stop_queue
+paused
+""#$$$$%&&&&&&&&&&''''((((($+,sound_db
+log
+self
+odt
+onow_ts
+'stop_request
+gid
+group_active_sources
+queue
+reqs_due
+req
+_play
+TTP: %sJSOUND %s defined but sound sources missing. Missing file during load?
+error
+pairs
+concurrent
+files
+sources
+insert
+table
+sequence
+mode
+ref_counters
+ref_counted
+ignore1%s plays every %d requests. (remaining: %d )
+paranoid
+every
+random
+math
+chance
+every_counter
+last_play_ts
+sound_extras
+options
+ !!"$$$()))************++++++++++,,,---------------...00001111110024444444466666777778<<>>>>>????@@@@@??BBDlog
+self
+request
+options
+last_play_ts
+every_counter
+play_due
+pools
+tell
+getDuration
+source
+ipairs
+group_active_sources
+mtp
+pos
+ast
+remaining
+insert
+table
+clone
+tostring3No free sources in pool %s. Creating a new one
+Found free source at %d
+paranoid
+isStopped
+log
+source_pool
+)source
+2source:play() failed! source: %s sound_id: %s
+insert
+ref_vol
+resume
+isPaused
+seek
+play
+loop
+setLooping
+setVolume
+group_gains
+random
+math
+number
+type
+gain
+remove
+table
+stop
+source
+tostring0Stopping evicted source %s (%s) in group %s=No free sources for %s. Source group %s maxed out at %d.
+paranoid
+max_sources for %s is 0
+info
+max_sources
+source_groups SOUND %s group %s not found
+error
+source_group
+active_sources
+sound_extras
+options
+    !!!!!!%%%%()))*****++,,,,,----......26666778::::;;;;===>>????????@@@@AAAAABBBEEEEEFFFFFFFHHHHHHHHJlog
+get_or_create_source
+soon_to_stop_source
+sound_db
+self
+request
+source_pool
+opts
+active_sources
+active
+max
+source
+ste_idx
+ste_ast
+vol
+Wmin
+max
+ref_vol
+=group_gain
+9success
++ast
+_play
+play
+update
+_stop_sources
+set_groups_gains
+set_main_gain_music
+set_main_gain_fx
+sound_is_playing
+resume
+pause
+stop_all
+stop_group
+stop
+stop_queue
+queue
+request_queue
+unload_group
+load_group
+queue_load_group
+queue_load_done
+init
+local cin,cout,th_i = ...
+require "love.filesystem"
+require "love.audio"
+require "love.sound"
+local file_count = 0
+while true do
+    -- get params
+    local file = cin:demand()
+    if file == 'QUIT' then goto quit end
+    local mode = cin:demand()
+    local id = cin:demand()
+    
+    if not love.filesystem.isFile(file) then
+        cout:push({'ERROR','Not a file',file})
+    else
+        local ok, result = pcall(love.audio.newSource, file, mode)
+        collectgarbage()
+        if ok and result then
+            cout:push({'OK',result,id})
+            file_count = file_count + 1
+        else
+            cout:push({'ERROR',result,file})
+        end
+    end
+end
+::quit::
+cout:supply({'DONE'})
+--print('TH  ' ..th_i.. ' QUIT - FILES LOADED ' .. file_count .. '\n')
+sounds_uses
+groups_done
+groups_total
+progress
+group_progress
+load_queue_current
+load_queue
+global_source_mode
+paused
+qts
+ref_counters
+sound_extras
+active_sources
+group_gains
+source_groups
+groups
+sounds
+source_uses
+sources
+path
+filesystem
+sound
+audio
+love
+klua.macros
+klua.table
+sound_db
+new
+klua.log
+require
+log
+hkm
+bLA
+`LS
+^FS
+\sound_db
+[_THREADS_ENABLED
++0_MAX_THREADS
+/_LOAD_AUDIO_THREAD_CODE
+.soon_to_stop_source
+get_or_create_source

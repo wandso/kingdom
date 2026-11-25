@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/levels/levels",
+    "pages/battle/battle",
+    "pages/heroes/heroes",
+    "pages/story/story"
+  ],
+  "window": {
+    "navigationBarTitleText": "王国保卫战：起源",
+    "navigationBarBackgroundColor": "#2b1d0e",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#1a1208",
+    "backgroundTextStyle": "light"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

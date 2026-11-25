@@ -1,0 +1,8 @@
+{
+  "name": "kro-origins-miniprogram",
+  "version": "1.0.0",
+  "description": "Kingdom Rush Origins 逆向复刻塔防小程序",
+  "dependencies": {
+    "@tencent-ai/workbuddy-cloud-sdk": "dev"
+  }
+}

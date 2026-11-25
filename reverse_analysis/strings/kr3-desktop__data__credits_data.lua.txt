@@ -1,0 +1,174 @@
+$@./kr3-desktop/data/credits_data.lua
+Sunnydaler
+Alex Szpakowski (slime)
+ LOVE framework / love2d.org
+.The fine folks from #love at irc.oftc.net
+0Mike Pall and LuaJIT community / luajit.org
+VirtualTT, xstargaming
+&Tinche, TomikplayFire11, truteal,
+0Super Sanch0, TheLightBringer, timtheonly, 
+(SmokingFlash, StiGMaT, sunnydaler, 
+Shamil 'PitNata' Barkzai
+SealDarklight, Shad0WeN, 
+&picandocodigo, Quinlan, SairiRM, 
+Omar 'Oamlair'Alawadhi,
+*Muffet, mrpanduh, muginn235, nesw12, 
+&magicmetal03, Milla Gamer Linux, 
++jamessmith55555, JMH Gaming, kevin32, 
+&Franisz, GeminiSparkSP, Giggmish,
+Dri, ekae, FeedDaKingdom,
+$Cybertox, dascandy, dldishner, 
+cassiokdz, Chimto, cxf, 
+(Brickmotion, CarelessCloud, Carrrl,
+!ahintofcat, Aix, bracnolion,
+(02ShadowHunter, 7ofAnn, AerisDraco,
+VirtualTT
+Sunnydaler
+Shamil 'PitNata' Barkzai
+SealDarklight
+GeminiSparkSP
+AerisDraco
+(Alpha testing)
+Gonzalo Sande
+Pablo Realini
+#© Zinstudio http://zinsta.jp/
+Vicente Lamónaca
+Typography
+Sebastian Guadalupe
+Localization Manager
+Yusuke Ogasawara
+Soohyeon Wi, Junesung Oh
+&VirtualTT, BobSchrijber1, StiGMaT
+Alex Tan
+Yizheng Cao
+Sean He
+Keywords Studios
+CREDITS_TITLE_LOCALIZATION
+Franco Balerio
+Juan Manuel Diaz
+(Leonardo Etcheverry
+Barzilai Spinak
+Ciro Mondueri
+LLeonardo Etcheverry
+Sebastián Fernández
+Ciro Mondueri
+Barzilai Spinak
+Kalio
+Produced by %s
+format
+string
+PC/Mac/Linux Version
+-/-
+CREDITS_TEXT_18_2
+CREDITS_TEXT_18
+CREDITS_TITLE_18
+Logan Apple
+Alan Berk “Beyak” Dogan
+Jesse “VolsFan14” Bradford
+Elias “Ashbite” Braun
+Joon “awesomejoon” Chang
+Christian “Big Bad Bug” Cortez
+Felipe Drequeceler Pinto
+Bill Ef
+Andre Garcia
+Grzegorz “canlupus” Glaczynski
+Sebastian Gonzales Majo
+Tran Hoang Lan
+“Justin”
+Ronald “Dead End hahaha” Larracas
+Steven Lewis
+Sabir Lin
+Roberto Matamoros
+Rahul Mazumdar
+Jacob “aconfusedkender” McCaleb
+Ciro Mondueri
+Damion “dimumurray” Murray
+Pedro Nunes
+Franco Pais
+Heechang Park
+Lionel Piguet
+Daniel “RaZoR LeAf” Powell
+Erik Quackenbush
+Gerjan “Magnus Swiftwind” Schepers
+Skylar Saeyang
+Francisco Santos
+Adhiraj Singh
+Amanda Skaggs
+Javier Valenzani
+Armando Vasquez
+Christian Weng
+Zam Zar
+CREDITS_TITLE_17
+#Guillermo Amorin
+Gabriel Artus
+Alvaro Azofra
+Martin Chaparro
+Ariel Coppes
+Gerson da Silva
+Esteban dal Monte
+Bruno de Leone
+Ruben Garat
+Pepe Infantozzi
+Diego Lopez D’Alessandro
+Agustin Mastalli
+Leandro Mesquita
+Juan Andres Nin
+Juan Pais
+Pablo Realini
+Gonzalo Sande
+Matias Sniadower
+CREDITS_SUBTITLE_16
+CREDITS_TITLE_16
+PSean Crisden
+Kane Black
+Dawn Henkel
+Ricky Paredes
+Jamie Rizzuto
+Cliff Smith
+CREDITS_TITLE_15
+Bruno Boselli
+CREDITS_TITLE_14
+1Bruno Boselli
+Veronica Sabbatelle as Malicia
+CREDITS_TITLE_13
+Bruno de Leone
+CREDITS_TITLE_12
+Matias Bergara
+CREDITS_TITLE_10
+iMartin Chaparro
+Pepe Infantozzi
+Diego Lopez D'Alessandro
+Agustin Mastalli
+Juan Pais
+Matias Sniadower
+CREDITS_SUBTITLE_09
+CREDITS_TITLE_09
+Gonzalo Sande
+CREDITS_TITLE_08
+^Guillermo Amorin
+Gabriel Artus
+Ariel Coppes
+Esteban dal Monte
+Ruben Garat
+Juan Andres Nin
+CREDITS_SUBTITLE_07
+CREDITS_TITLE_07
+Pablo Realini
+CREDITS_TITLE_06
+.Gerson Da Silva
+Martin “Magnus” Perez
+CREDITS_TITLE_05
+Gerson Da Silva
+CREDITS_TITLE_04
+Leandro Mesquita
+CREDITS_TITLE_03
+Gerson Da Silva
+CREDITS_TITLE_02
+.Alvaro Azofra
+Pablo Realini
+Gonzalo Sande
+CREDITS_SUBTITLE_01
+CREDITS_TITLE_01
+credits_logo
+image
+      !!!!!!""##$$$$$$%%&&''''''(())******++,,------..//0000001122333333444444556677777788888899::;;;;;;<<<<<<======??@@AACCCCCCDDFFFFFFFFFFGGHHJJJJJJKKLLNNNNNNOOPPRRRRRRSSTTVVVVVVWWXXZZZZZZ[[\\]]^^__``bbbbbbccddffffffgghhiikkkkkkllmmooppqqrrssttuuvvxxxxxxyyyyyy{{||}}~~

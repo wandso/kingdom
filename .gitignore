@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Build output (regenerable)
+dist/
+build/
+*.egg-info/

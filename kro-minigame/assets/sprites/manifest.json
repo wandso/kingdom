@@ -1,0 +1,310 @@
+{
+  "enemy_gnoll_reaver": {
+    "file": "assets/sprites/enemy_gnoll_reaver.png",
+    "w": 118,
+    "h": 75,
+    "pw": 41,
+    "ph": 42
+  },
+  "enemy_gnoll_burner": {
+    "file": "assets/sprites/enemy_gnoll_burner.png",
+    "w": 104,
+    "h": 79,
+    "pw": 67,
+    "ph": 50
+  },
+  "enemy_gnoll_gnawer": {
+    "file": "assets/sprites/enemy_gnoll_gnawer.png",
+    "w": 110,
+    "h": 135,
+    "pw": 62,
+    "ph": 56
+  },
+  "enemy_hyena": {
+    "file": "assets/sprites/enemy_hyena.png",
+    "w": 107,
+    "h": 96,
+    "pw": 56,
+    "ph": 40
+  },
+  "enemy_perython": {
+    "file": "assets/sprites/enemy_perython.png",
+    "w": 124,
+    "h": 143,
+    "pw": 77,
+    "ph": 68
+  },
+  "enemy_gnoll_blighter": {
+    "file": "assets/sprites/enemy_gnoll_blighter.png",
+    "w": 124,
+    "h": 104,
+    "pw": 61,
+    "ph": 55
+  },
+  "enemy_perython_gnoll_gnawer": {
+    "file": "assets/sprites/enemy_perython_gnoll_gnawer.png",
+    "w": 110,
+    "h": 135,
+    "pw": 62,
+    "ph": 56
+  },
+  "enemy_ettin": {
+    "file": "assets/sprites/enemy_ettin.png",
+    "w": 217,
+    "h": 127,
+    "pw": 95,
+    "ph": 97
+  },
+  "enemy_sword_spider": {
+    "file": "assets/sprites/enemy_sword_spider.png",
+    "w": 68,
+    "h": 53,
+    "pw": 45,
+    "ph": 31
+  },
+  "enemy_satyr_hoplite": {
+    "file": "assets/sprites/enemy_satyr_hoplite.png",
+    "w": 135,
+    "h": 84,
+    "pw": 77,
+    "ph": 61
+  },
+  "enemy_webspitting_spider": {
+    "file": "assets/sprites/enemy_webspitting_spider.png",
+    "w": 107,
+    "h": 98,
+    "pw": 78,
+    "ph": 47
+  },
+  "enemy_gloomy": {
+    "file": "assets/sprites/enemy_gloomy.png",
+    "w": 208,
+    "h": 104,
+    "pw": 39,
+    "ph": 51
+  },
+  "enemy_bandersnatch": {
+    "file": "assets/sprites/enemy_bandersnatch.png",
+    "w": 231,
+    "h": 163,
+    "pw": 97,
+    "ph": 79
+  },
+  "enemy_redcap": {
+    "file": "assets/sprites/enemy_redcap.png",
+    "w": 113,
+    "h": 101,
+    "pw": 43,
+    "ph": 33
+  },
+  "enemy_twilight_avenger": {
+    "file": "assets/sprites/enemy_twilight_avenger.png",
+    "w": 138,
+    "h": 141,
+    "pw": 61,
+    "ph": 54
+  },
+  "enemy_rabbit": {
+    "file": "assets/sprites/enemy_rabbit.png",
+    "w": 48,
+    "h": 39,
+    "pw": 25,
+    "ph": 30
+  },
+  "enemy_razorboar": {
+    "file": "assets/sprites/enemy_razorboar.png",
+    "w": 45,
+    "h": 48,
+    "pw": 43,
+    "ph": 45
+  },
+  "enemy_spider_arachnomancer": {
+    "file": "assets/sprites/enemy_spider_arachnomancer.png",
+    "w": 62,
+    "h": 37,
+    "pw": 35,
+    "ph": 24
+  },
+  "enemy_twilight_heretic": {
+    "file": "assets/sprites/enemy_twilight_heretic.png",
+    "w": 23,
+    "h": 23,
+    "pw": 23,
+    "ph": 23
+  },
+  "enemy_mantaray": {
+    "file": "assets/sprites/enemy_mantaray.png",
+    "w": 82,
+    "h": 79,
+    "pw": 66,
+    "ph": 40
+  },
+  "enemy_spider_son_of_mactans": {
+    "file": "assets/sprites/enemy_spider_son_of_mactans.png",
+    "w": 62,
+    "h": 37,
+    "pw": 35,
+    "ph": 24
+  },
+  "enemy_arachnomancer": {
+    "file": "assets/sprites/enemy_arachnomancer.png",
+    "w": 101,
+    "h": 62,
+    "pw": 40,
+    "ph": 45
+  },
+  "enemy_drider": {
+    "file": "assets/sprites/enemy_drider.png",
+    "w": 56,
+    "h": 56,
+    "pw": 51,
+    "ph": 53
+  },
+  "enemy_perython_rock_thrower": {
+    "file": "assets/sprites/enemy_perython_rock_thrower.png",
+    "w": 124,
+    "h": 143,
+    "pw": 77,
+    "ph": 68
+  },
+  "enemy_ogre_magi_custody_gnoll_gnawer": {
+    "file": "assets/sprites/enemy_ogre_magi_custody_gnoll_gnawer.png",
+    "w": 110,
+    "h": 135,
+    "pw": 62,
+    "ph": 56
+  },
+  "enemy_ogre_magi_custody_ettin": {
+    "file": "assets/sprites/enemy_ogre_magi_custody_ettin.png",
+    "w": 217,
+    "h": 127,
+    "pw": 95,
+    "ph": 97
+  },
+  "enemy_blood_servant": {
+    "file": "assets/sprites/enemy_blood_servant.png",
+    "w": 98,
+    "h": 76,
+    "pw": 54,
+    "ph": 41
+  },
+  "enemy_screecher_bat": {
+    "file": "assets/sprites/enemy_screecher_bat.png",
+    "w": 148,
+    "h": 141,
+    "pw": 55,
+    "ph": 64
+  },
+  "enemy_mounted_avenger": {
+    "file": "assets/sprites/enemy_mounted_avenger.png",
+    "w": 135,
+    "h": 135,
+    "pw": 85,
+    "ph": 87
+  },
+  "enemy_shadows_spawns": {
+    "file": "assets/sprites/enemy_shadows_spawns.png",
+    "w": 180,
+    "h": 180,
+    "pw": 100,
+    "ph": 72
+  },
+  "enemy_grim_devourers": {
+    "file": "assets/sprites/enemy_grim_devourers.png",
+    "w": 93,
+    "h": 96,
+    "pw": 53,
+    "ph": 46
+  },
+  "enemy_dark_spitters": {
+    "file": "assets/sprites/enemy_dark_spitters.png",
+    "w": 141,
+    "h": 98,
+    "pw": 65,
+    "ph": 70
+  },
+  "enemy_shadow_champion": {
+    "file": "assets/sprites/enemy_shadow_champion.png",
+    "w": 180,
+    "h": 180,
+    "pw": 100,
+    "ph": 72
+  },
+  "tower_archer": {
+    "file": "assets/sprites/tower_archer.png",
+    "w": 121,
+    "h": 113,
+    "pw": 40,
+    "ph": 40
+  },
+  "tower_mage": {
+    "file": "assets/sprites/tower_mage.png",
+    "w": 113,
+    "h": 118,
+    "pw": 25,
+    "ph": 41
+  },
+  "tower_artillery": {
+    "file": "assets/sprites/tower_artillery.png",
+    "w": 98,
+    "h": 42,
+    "pw": 98,
+    "ph": 40
+  },
+  "tower_barracks": {
+    "file": "assets/sprites/tower_barracks.png",
+    "w": 76,
+    "h": 65,
+    "pw": 26,
+    "ph": 36
+  },
+  "hero_alleria": {
+    "file": "assets/sprites/hero_alleria.png",
+    "w": 113,
+    "h": 93,
+    "pw": 44,
+    "ph": 45
+  },
+  "hero_bravebark": {
+    "file": "assets/sprites/hero_bravebark.png",
+    "w": 53,
+    "h": 31,
+    "pw": 51,
+    "ph": 29
+  },
+  "hero_bruce": {
+    "file": "assets/sprites/hero_bruce.png",
+    "w": 138,
+    "h": 141,
+    "pw": 72,
+    "ph": 68
+  },
+  "hero_catha": {
+    "file": "assets/sprites/hero_catha.png",
+    "w": 34,
+    "h": 6,
+    "pw": 30,
+    "ph": 6
+  },
+  "hero_durax": {
+    "file": "assets/sprites/hero_durax.png",
+    "w": 31,
+    "h": 17,
+    "pw": 31,
+    "ph": 17
+  },
+  "hero_elves_archer": {
+    "file": "assets/sprites/hero_elves_archer.png",
+    "w": 259,
+    "h": 96,
+    "pw": 51,
+    "ph": 49
+  },
+  "hero_bolverk": {
+    "file": "assets/sprites/hero_bolverk.png",
+    "w": 110,
+    "h": 93,
+    "pw": 66,
+    "ph": 58
+  }
+}

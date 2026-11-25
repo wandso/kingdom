@@ -1,0 +1,30 @@
+<view class="levels-page">
+    <view class="map-head">
+        <text class="map-title kro-title">艾纳妮大陆 · 战役地图</text>
+        <text class="map-sub">选择关卡，阻止暮光精灵的入侵</text>
+    </view>
+
+    <view class="difficulty-bar">
+        <text class="diff-label">难度</text>
+        <view class="diff-pills">
+            <view wx:for="{{difficulties}}" wx:key="id" data-index="{{index}}" bindtap="onDifficulty"
+                  class="diff-pill {{index === diffIndex ? 'active' : ''}}">{{item.nameZh}}</view>
+        </view>
+    </view>
+
+    <view class="level-grid">
+        <view wx:for="{{levels}}" wx:key="id" class="level-node {{item.unlocked ? '' : 'locked'}}"
+              data-id="{{item.id}}" data-unlocked="{{item.unlocked}}" bindtap="onLevelTap">
+            <view class="node-badge">{{item.unlocked ? item.id : '🔒'}}</view>
+            <text class="node-name">{{item.nameZh}}</text>
+            <view class="node-stars">
+                <text wx:for="{{starArr}}" wx:for-item="s" wx:key="*this" class="star {{s < item.star ? 'on' : ''}}">★</text>
+            </view>
+            <text class="node-boss" wx:if="{{item.boss}}">♛ 首领</text>
+        </view>
+    </view>
+
+    <view class="legend">
+        <text>已解锁 {{progress.unlockedLevel}} / 22 关 · 点击关卡开始战斗</text>
+    </view>
+</view>

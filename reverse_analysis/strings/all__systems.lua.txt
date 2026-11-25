@@ -1,0 +1,1681 @@
+@./all/systems.luaT
+queue_insert_entity
+simulation
+store
+queue_remove_entity
+simulation
+store
+FPS
+7X+
+level_idx7level_idx:%02d, level_mode:%d, level_difficulty:%d
+info
+main_hero
+game_outcome
+player_score
+gems_collected
+initial_lives
+GAME_MODE_ENDLESS
+GAME_MODE_IRON
+GAME_MODE_HEROIC
+lives
+GAME_MODE_CAMPAIGN
+initial_gold
+player_gold
+run_complete
+type
+invalid_path_ranges
+insert_invalid_path_ranges
+entities_list
+insert_entities
+locations
+data
+patch_templates
+max_upgrade_level
+init
+selected_hero_status
+selected_hero+forcing hero level to %s, skills to:%s
+skills
+hero_xp_thresholds
+level
+forced_hero_skills_level
+forced_hero_level
+status
+forced_hero
+selected
+heroes
+level_mode
+visible_coords
+level_name
+load
+level_difficulty
+set_level
+set_levels0challenge: forcing all upgrades level to %s
+debug
+pairs
+upgrade_level
+restrictions
+level_challenge
+upgrades
+deepclone
+table
+load_slot
+  !!!!""!!%%%%%%(),,,,,,,,,------------.....00000011112222444555555566666666;;;;;;;<<<<<==============<<@@@@@@@@@BBBCCCFFFFFGGGGHHHIIIIJJJKKKKLLLMMMMNNNNNNNNPPQQRRSSVVVWWWVXstorage
+log
+self
+store
+slot
+upgrade_levels
+hero_name
+hero_status
+$fsl
+xp@Active slot has no heroes status information. Skipping save
+error
+status
+heroes
+template_name
+hero_xp_ephemeral
+hero
+main_hero.Playing challenge, so skip saving hero xp
+info
+level_challenge
+store
+log
+slot
+>hn
+game-victory-after
+game-victory
+bag#adding reward %s of %s to slot
+pairs
+rewards
+diff
+time
+already_won
+challenges_completed
+level_challenge
+stars
+lives_left
+victory
+++++ VICTORY ++++
+has_alive_enemies
+waves_finished
+save_slot
+game-defeat-after
+game-defeat
+wave_group_number
+waves_survived
+player_score
+high_score
+waves_survived
+high_score
+levels
+gems_collected
+gems
+last_victory
+defeat_count
+paused
+level_difficulty
+victory
+++++ DEFEAT ++++
+info
+lives
+game_outcome
+insert_hero
+manual_hero_insertion
+locked_hero
+main_hero
+TIP_ELITE
+count_stars
+level_idx
+GAME_MODE_CAMPAIGN
+icon
+TIP_HEROES
+is_seen
+selected_hero
+kr1
+KR_GAME
+TIP_SURVIVAL
+GAME_MODE_ENDLESS
+TIP_UPGRADES
+view
+wave-notification
+emit
+GAME_MODE_HEROIC
+GAME_MODE_IRON
+level_mode
+load_slot
+_common_notifications
+traceback
+debug!Error running level coro: %s
+error
+dead
+status
+resume
+create
+coroutine
+run_complete
+update
+level
+          """###)))****++,,,,,,,,-------....///////00000000000001111111222222222223333333333333344444499999999999::::>>>????AAAABDDEEFFGHHIIIIIILLLLMMPPPSSSSSSSUUUUVVVWWXZZZZ[[[\\\^^^^^^____````dddddeeeeeffffffffhhhhiiijjjjjjmmmmnooooppppqqrrrrsvxxyzz{{||}
+log
+storage
+signal
+self
+store
+store_hero_xp
+success
+error
+slot
+"Oslot
+}?slot_level
+stars
+slot
+challenge
+xalready_won
+Ncomp
+@rewards
+4spawner thread(%s) for wave(%s) about to finish
+interval_next
+wave_signals&Sending spawner on_end_signal: %s
+info
+on_end_signal
+crep&Entity template not found for %s.
+error
+template_name
+id5GEMS: %s gems to enemy: (%s)%s spawn:%s creep:%s
+rand_sign
+gems_per_wave
+floor
+gems
+enemy
+spawn_data
+get_start_node
+path
+fixed_sub_path
+spi
+nav_path
+create_entity
+max_same
+interval
+y_wait
+creep_aux
+mark_seen
+icon
+wave-notification
+emit
+creep
+is_seen
+pathsCGEMS: assigned to spawner with max_creeps = 0, so not in play..GEMS: gems_spawn_idx:%s gems_creep_idx:%s
+max
+random
+math
+GAME_MODE_CAMPAIGN
+level_mode
+path_index
+spawns
+tostring
+running
+coroutine-spawner thread(%s) for wave(%s) starting
+debug
+!!!!##########&&''(((((((((()))*******+00000112233333333333344444445566677778888888888889999999999<<<<==?????!BBBCCCCCCCCCCHIIJJJJJKKKOOOPPPPPPPPPP
+SSSSSSSSSSTTlog
+signal
+fts
+queue_insert
+store
+wave
+spawns
+last_spawn_ts
+gems_creep_idx
+gems_keeper_random
+gems_spawn_idx
+max_creeps
+current_count
+current_creep
+path
+(Aoes
+yield
+coroutine
+delay
+tick_ts
+store
+fts
+wave
+spawner
+wave_start_ts
+WAVE spawn thread FINISHED
+nextFWAVE group %d about to wait for all its spawner threads to finish
+waves_active
+create
+icon
+notification_second_level
+gems_wave_idx
+GEMS:_wave_idx:%s
+next-wave-sent
+current_wave_group'ENDLESS: wave %s reward:%s gems:%s
+gems_collected
+endless_gems_for_wave
+early-wave-called
+player_goldiENDLESS: early wave %s reward %s (time_factor:%s scorePerWave:%s scoreNextWaveMultiplier:%s flags:%s
+player_score
+scoreNextWaveMultiplier
+scorePerWave
+clamp
+get_endless_score_config)get_endless_early_wave_reward_factor!early_wave_reward_per_second
+ceil
+math
+early_wave_reward
+GAME_MODE_ENDLESS
+level_mode
+round
+wave_group_number)sending WAVE group %02d (%02d waves)
+force_next_wave
+interval
+last_wave_ts
+tick_ts,Sending first WAVE. (Started by player)
+debug
+yield
+coroutine
+send_next_wave
+view
+wave-notification
+notification
+waves
+pairs
+next-wave-ready
+emit
+next_wave_group_ready
+group_idx
+get_group
+has_group%Wave group spawn thread STARTING
+info
+    #######$$%(((((()**********++++-----.....-.00001111111112222222222222333445666666647:::::::<<<<=========??CCCCCCCEEEEFFFGGGIIIIJJJKKKKKKKNNOPPPPPQQQQQSSSSTVVVVVVVVXXXXXXZZZZZZ[[[[[[^^d^eeeSSggggghhhhhhiiiikkllnnppppqqqlog
+signal
+fts
+spawner
+store
+group
+wave
+score_reward
+?Vremaining_secs
+Lconf
+$time_factor
+conf
+reward
+gems
+!wave
+!sco
+create
+coroutine
+wave_spawn_thread
+groups_count
+waves_count
+gems_factor_per_mode
+level_idx
+gems_per_level
+floor
+math
+wave_group_total
+gems_per_wave
+GAME_MODE_ENDLESS
+level_mode
+send_next_wave
+wave_signals
+waves_active
+last_wave_ts
+waves_finished
+wave_group_number
+log
+signal
+fts
+spawner
+self
+4store
+4run
+kill_all_enemies
+waves_active
+force_next_wave
+self
+store
+wave_group_number
+set_entity_progression
+_entity_progression_done
+endless
+enemy
+GAME_MODE_ENDLESS
+level_mode
+self
+entity
+store
+!removing spawner thread (%s)+Error resuming spawner thread (%s): %s
+tostring(thread (%s) finished after resume()
+waves_active
+pairs
+traceback,Error resuming wave_spawn_thread co: %s
+error
+++++ WAVES FINISHED
+debug
+waves_finished
+resume
+coroutine
+wave_spawn_thread
+force_next_wave
+wave_spawn
+!!""""#####$$$""&(()sys
+log
+self
+hdt
+hts
+hstore
+hok
+done
+to_cleanup
+%co
+%ok
+ done
+ err
+target_id
+modifier
+target_id
+resets_same_tween_offset
+tween
+resets_same_tweenCresetting ts for modifier (%s)-%s instead of inserting (%s)-%s
+resets_same5replacing existing modifier (%s)-%s with (%s)-%s
+replaces_lower(adding a duplicate modifier (%s)-%s
+paranoid
+allows_duplicates
+level
+sprites
+render
+tick_ts
+tsObanned modifier (%s) %s of type %s removed by (%s) %s for target entity %s
+type
+ban_types
+idDbanned modifier (%s) %s removed by (%s) %s for target entity %s
+removed_by_ban
+remove_banned7modifier %s not allowed by %s for target entity %s
+debug
+template_name
+contains
+bans
+pairs
+entities
+filter
+table
+target_id
+modifier
+!!!!"""""""""###$$$$%%%&&&&&&&&%
+---...//////00000/555566667777777777999999::::;;;;;;;;;;===>>>>=????@@@AAAAAABBBBBBBBADEEEEEEEEEEGGGHHHHGIIIJJJJJJJKKKKKKKKKMMMMOOO55TTT
+log
+queue_remove
+self
+entity
+store
+this
+target_id
+modifiers
+target_id
+modifier
+target_id
+modifier
+fx_tower_buy_dust
+hide_dust
+replace_blocker
+attacks
+melee
+new
+center
+nav_rally
+runs
+loop
+flip_y
+arrived
+dest
+motion
+tower_id
+soldier
+i18n_key
+info
+soldier_type
+unblock_target
+max_soldiers
+dead
+health
+soldiers
+ipairs
+rally_pos
+barrack
+area_attack
+ranged_attack
+engineer
+blocked
+unblock_price
+build_name
+get_template
+build_animation
+type
+price
+tower-upgraded
+upgrading %s to %s
+upgrade_to
+sell_args
+queue
+sound_events
+tick_ts
+fx_tower_sell_dust
+tower-removed
+emit
+nav_mesh_id
+format
+string
+name
+sprites
+render
+terrain_style
+default_rally_pos
+flip_x
+holder_id
+vclone
+pos
+tower_holder
+create_entity
+pairs
+filter
+table
+player_gold
+refund_factor
+round
+spent
+wave_group_number
+selling %s
+debug
+destroy
+sell
+tower
+entities
+filter_iter
+    !!!!"""""""""""""$$$$$$%%%%''''((((******,,,,...../////////00000111144444445555555579999;;;;;;;>>?@>BBBBCCCCBBGGGGGGHHHHHIIIIJJJJKKKKLLLLLLLNNNNOOOOPPPPPPPPPPPPPRRRRRRSSSSUUUUVVVVWWWWWWZZ[[[[\\\\\]]]^^^^__````````aacccdddddddfffffjjjjjjjjjjjlllmmmmmnnnooooprrrrrrtttttttwwwwwxxxxy{{{{||||||~~~~~~
+log
+queue_remove
+queue_insert
+signal
+self
+store
+refund
+mods
+mod
+ldust
+K!mods
+mod
+price
+dust
+mage_towers_count
+game_upgrades_data
+self
+store
+type
+contains
+table
+tower
+mage_tower_types
+ceil
+math
+clamp
+damage_factors
+damage_max
+_orig_damage_max
+damage_min
+_orig_damage_min
+bullet
+get_template
+pairs
+entities
+filter
+type
+contains
+table
+tower
+mage_brilliance
+get_upgrade
+bolt_1
+bolt_2
+bolt_3
+bolt_archmage
+bolt_necromancer
+mage
+archmage
+necromancer
+self
+Sentity
+Sstore
+Smage_tower_types
+Qmage_bullet_names
+Kexisting_towers
+type
+contains
+table
+tower
+mage_tower_types
+_orig_damage_max
+damage_max
+_orig_damage_min
+ceil
+math
+damage_min
+bullet
+get_template
+pairs
+clamp
+damage_factors
+entities
+filter
+type
+contains
+table
+tower
+mage_brilliance
+get_upgrade
+bolt_1
+bolt_2
+bolt_3
+bolt_archmage
+bolt_necromancer
+mage
+archmage
+necromancer
+self
+?entity
+?store
+?mage_tower_types
+=mage_bullet_names
+7existing_towers
+queue
+main_script
+self
+entity
+store
+insertion
+dequeue
+main_script
+self
+entity
+store
+insertion
+insert
+main_script
+self
+entity
+store
+traceback
+debug
+Error running coro: %s
+error
+dead
+status
+resume
+create
+coroutine
+runs
+update
+main_script
+entities
+filter_iter
+log
+self
+=dt
+=ts
+=store
+1success
+error
+remove
+main_script
+self
+entity
+store
+damage_queue
+self
+store
+hp_max
+health
+self
+entity
+store
+delete_now
+ignore_delete_after
+heroOENDLESS: kill score %s (%s)%s - armor:%s magic_armor:%s hp_max:%s speed:%s
+debug
+player_score
+round
+FPS
+max_speed
+motion
+scoreEnemyMultiplier
+hp_max
+magic_armor
+armor
+max
+get_endless_score_config
+GAME_MODE_ENDLESS
+level_mode
+show-gems-reward
+gems_collected
+gems
+got-enemy-gold
+gold
+player_gold
+enemy
+hidden
+health_bar
+dead_lifetime
+delete_after
+death_ts
+filter_iter
+killed
+track_kills
+entity-killed
+ceil
+math
+DAMAGE_TRUE
+damage
+create_entity
+soldier
+spiked_armor
+damaged
+insert
+source_id
+entity-damaged
+emit
+track_damage
+tick_ts
+last_hit_ts
+regen
+DR_DAMAGE!(%s) %s - damage_applied: %s
+predict_damage
+DR_MAGICAL_ARMOR
+magic_armor_dec
+DAMAGE_MAGICAL_ARMOR
+DR_ARMOR
+value
+armor_dec
+DAMAGE_ARMOR
+DR_KILL
+damage_result
+DAMAGE_EAT
+DAMAGE_INSTAKILL$(%s) %s - last_damage_types: %x
+last_damage_types
+getfulldump
+template_name
+id3entity: (%s) %s dead:%s - ignoring damage: 
+paranoid
+on_damage
+ignore_damage
+damage_type
+immune_to
+dead
+health
+target_id
+entities
+remove
+table
+damage_applied
+damage_queue
+     !!!!!!!$$$$$$$$$%%&&&&&'''))))))*****++++++------.....//////22222444566666669999999:::::<<<=====>>>@@@BBBCCCCCCDDDEEEEEFFFFFFFFFLLLLLLLLLLLLLNNNNOOOOOOOOOPPPPPQQRRRRRRRSSTTUUUUU[[[[[[[]]]]]]___aaabbbbbcccccc
+nnnnnnnorrrrrrrrrrssttuuvvvvxxxyyy|||}}}}}~~~~~~~
+band
+log_hp
+bor
+signal
+log
+queue_remove
+self
+store
+starting_hp
+actual_damage
+Fpsource
+ sad
+source
+conf
+H,score
+COUNT_GROUP_CUMULATIVE
+COUNT_GROUP_CONCURRENT
+count_groups
+self
+store
+count-group-changed
+emit
+name
+type
+count_groups
+in_limbo
+count_group
+signal
+self
+.entity
+.store
+.insertion
+on_remove
+self
+entity
+store
+insertion
+count-group-changed
+emit
+clamp
+name
+count_groups
+COUNT_GROUP_CONCURRENT
+type
+in_limbo
+count_group
+signal
+self
+)entity
+)store
+template_name
+idMXP QUEUE DAMAGE: (%s)%s xp:%.2f damage:%.2f factor:%.2f to:(%s)%s via:%s
+debug
+target_id
+DEBUG_LEVEL
+level
+xp_queued
+hero
+entities
+source_id
+xp_dest_id
+damage_applied
+xp_gain_factor
+damage_queue
+pairs
+log_xp
+self
+Ddt
+Dts
+Dstore
+<id
+(amount
+tick_ts
+sprites
+render
+pop_y_offset
+hit_offset
+pop_offset
+unit
+pos
+pop_over_target
+create_entity
+damage_result
+pop_conds
+random
+math
+pop_chance
+soldier
+enemy
+source_id
+entities
+target_id
+pop
+damage_queue
+pairs
+        """"""#############$$$$$%%%%
+*band
+queue_insert
+self
+store
+source
+}target
+zpop_entity
+yname
+)Pe
+duration
+runs
+tick_ts
+disabled
+sprite_id
+sprites
+render
+timed
+entities
+filter_iter
+queue_remove
+self
+2dt
+2ts
+2store
+frandom
+random_ts
+setfenv
+math
+store
+this
+return 
+loadstring
+string
+type
+keys
+props
+pairs
+tween
+self
+?entity
+?store
+env
+cos
+math
+boolean
+table
+type
+linear
+lerp
+fns
+&fn
+&ta
+ 7!
+ ! 7!
+ 7!
+6%$
+$$ 8%
+%&%!$%$8%
+T"(
+6""
+9"!
+6!!
+7" 
+6##
+7# # "#":" !7!
+6!!
+7"!
+6##
+7#!# "#":"!!T!
+6""
+ ""
+9"!
+6!!
+run_once
+remove
+name
+boolean
+multiply
+interp
+clamp
+ignore_reverse
+reverse
+loop
+time_offset
+tick_ts
+keys
+sprites
+render
+table
+sprite_id
+type
+props
+pairs
+disabled
+tween
+entities
+filter_iter
+sine
+quad
+linear
+step
+    !"""#$%%&&'''(********++,,,--///0222222235555555777789999:::;<7??@@BBBBBBBBBBBBBBBDDDEEEEEFFFFFFFGGGGGHHHHHHHHIIIIIIIIIKKKKKLNNPPPQQQQSSSSTTTTTTTTTVVVVVVVVV  
+\\]]]]]]]]^^^^^^^
+bbV
+queue_remove
+self
+store
+fns
+lerp
+finished
+sids
+sid
+value
+keys
+start_time
+end_time
+duration
+time_ref
+time
+gold
+player_gold
+lives_cost
+clamp
+lives
+enemy-reached-goal
+emit
+enemy %s reached goal
+debug
+remove_at_goal_line
+enemy
+path_connections
+get_end_node
+nav_path
+entities
+filter_iter
+log
+signal
+queue_remove
+self
+@dt
+@ts
+@store
+5node_index
+3end_node
+animated
+name
+sprites
+render
+image_group
+image_name
+temp_game_texts
+add_image
+debug_bg
+fit_height
+screen_scale
+line_height
+color
+font_size
+font_name
+alignment
+size
+text
+create_text_image
+tick
+text_%s_%s_%s
+format
+string
+sprite_id
+list
+pairs
+texts
+self
+7entity
+7store
+*sprite_id
+)image_name
+"image
+remove_image
+image_name
+list
+pairs
+texts
+self
+entity
+store
+last_pos
+ts_offset
+tick_ts
+emit_ts
+particle_system
+self
+entity
+store
+render_frames
+removeobject
+table
+particles
+particle_system
+self
+entity
+store
+hidden
+alpha
+sort_y_offset
+sort_y
+draw_order
+offset
+anchor
+scale
+pos
+flip_y
+flip_x
+draw_order
+sort_y_offset
+sort_y
+last_ts
+scale_factor
+spin
+speed
+pos
+getdumpAsys.particle_system:update phase_interp has nil values in %s
+error
+boolean
+table
+type
+floor
+math
+log
+values
+Bphase
+Bdefault
+Bintervals
+4interval
+0interval_phase
+*ta
+'out
+   
+ !!
+ ! : 
+7 .
+7!.
+7 *
+ 7!*
+7 ;
+7!J
+7!J
+removeobject
+name
+loop
+FPS
+animation_fps
+animated
+sort_y_offsets
+alphas
+alpha
+scale
+scales_y
+scales_x
+last_ts
+pairs
+random
+name_idx
+zmod
+_last_name_idx
+cycle_names
+names
+scale_same_aspect
+scale_factor
+scale_var
+spin
+emit_rotation_spread
+track_rotation
+emit_rotation
+emit_spread
+emit_direction
+rotate
+speed
+emit_speed
+emit_offset
+emit_area_spread
+particle_lifetime
+frandom
+lifetime
+particles
+anchor
+render_frames
+insert
+table
+sort_y
+sort_y_offset
+draw_order
+floor
+math
+emission_rate
+ts_offset
+emit_ts
+tick_ts
+emit_duration_ts
+emit_duration
+source_lifetime
+emit
+sprites
+render
+track_offset
+pos
+last_pos
+track_id
+tick_length
+particle_system
+entities
+filter_iter
+8:::::::;<=@BBBCCCDDEEEEEEEEFFFFFFFFGGGHHHHHHHHHHHHHHJJJJJJJJKKKKLOOPPUUUUUUVVVWWYYYYYYZZ___````dddddddddeeeeeeeffffggggghhhhhhhiiiiiiiiiiiiijjjjjjkkkkklllmmmmmmmmnnnnnoqqqqqqqqsssttttttuuuuuuvvvvvvvvvvvvvvvxxxxxxxxzzz{|||||||||||||}}}}}}}}}}}}}
+log
+queue_remove
+self
+store
+new_frame
+new_particle
+phase_interp
+to_remove
+target
+target_rot
+count
+pts
+draw_order
+draw_order
+stepx
+stepy
+factor
+phase
+uscale_x
+%Pscale_y
+Kfn
+1to
+HEALTH_BAR_COLORS
+_hb_colors
+default
+texture_size
+HEALTH_BAR_SIZES
+_hb_sizes
+size
+trim
+quad
+ref_scale
+_hb_ss
+HEALTH_BAR_CORNER_DOT_QUAD
+unpack
+newQuad
+graphics
+love
+render_frames
+self
+store
+hb_quad
+ref_scale
+scale
+bar_width
+type
+_hb_sizes
+_hb_colors
+black
+colors
+_hb_ss
+vclone
+alpha
+black_bar_hp
+health_bar
+insert
+render_frames
+removeobject
+table
+frames
+shader_args
+get
+shader
+color
+frandom
+random_ts
+sort_y_offset
+sort_y
+Z_OBJECTS
+draw_order
+offset
+anchor
+pos
+flip_y
+flip_x
+sprites
+ipairs
+render
+   !$$$$$$$%%&&''(())**+++++,,,,,,,,,,,--..//0000000000111223333334444444899::;;<<==>>>>>????????????@@AABBCCCCCCCCCCDDDEEFFFFFFGGGGGGGGGGJKKLLMMNNOOPPPPPQQQQQQQQQQQQRRSSTTUUUUUUUUUUVVVWWXXXXXXYYYYYYYYYY[[[[[]]]]]][__``aaaaabbbbbccddeeeeeiiU
+self
+entity
+store
+Khb
+hbsize
+hbsize
+.vff
+chbsize
+health_bar
+render_frames
+removeobject
+table
+frames
+render
+self
+/entity
+/store
+draw_order
+pos
+sort_y_offset
+sort_y
+       ##$$$$&&'
+alen
+Yf1_lte_f2
+Xf1
+Wy1
+Ef2
+?y2
+{~1
+render_frames
+hp_max
+health
+ref_scale
+bar_width
+ceil
+floor
+math
+black_bar_hp
+health_bar
+hidden
+hide_after_runs
+alpha
+draw_order
+sort_y_offset
+sort_y
+Z_OBJECTS
+offset
+anchor
+scale
+pos
+flip_y
+flip_x
+sync_flag
+sync_idx
+frame_name
+name
+prefix
+animated
+frame_idx
+fps
+loop
+time_offset
+fni
+animation
+runs
+frames
+sprites
+ipairs
+render
+filter_iter
+entities
+&&&'''''''''(((********,,,,,,,...../00112223333333337777777799::;;;;;;;;<<<<<<<<=====>>??@@@@@@@@AABBBBBBBCCEEFFFGG
+KKKLMMNNOOOOOOOOPPPQQRRSSSSSUUVVWWWWXXXXXXXXXXXXXXYYYYYYYYYYYYYYZZZZZZZZZZZZZZ[[[[[[[[[[[[[[\\\\\]]]]]^^^^^^^^^^^^____________``aabbccccccccccccccddddddddddddddeeeeeffggggggggggghhhhhhhhiiiiiiiiikkkkkkkkk
+self
+store
+entities
+last_runs
+runs
+idx
+full_name
+CPhb
+insertsort
+insert_args
+queue
+pairs
+table
+type
+insert
+sound_events
+self
+entity
+store
+sounds
+remove_stop_args
+stop
+remove_stop
+remove_args
+queue
+pairs
+table
+type
+remove
+sound_events
+self
+6entity
+6store
+6se
+4sounds
+sounds
+seen_dirty
+seen
+load_slot
+storage
+self
+store
+slot
+template_name
+mark_seen
+ignore_seen_tracker
+enemy
+tower
+self
+entity
+store
+save_slot
+seen
+load_slot
+seen_dirty
+storage
+self
+store
+slot
+ERROR
+c_insertedAenemy tracker - ins:%s | rem:%s (kill:%s + reach:%s = %s) %s
+format
+string
+c_end_node_reached
+c_killed
+c_removed
+det
+diff
+c_end_node_reached
+c_killed
+c_removed
+c_inserted
+det
+self
+store
+debug
+c_inserted
+det
+enemy
+log
+format_stats
+self
+entity
+store
+template_name
+id6DBG_ENEMY_TRACKER: ENEMY REMOVAL UNKNOWN: (%s) %s
+debug
+c_end_node_reached
+get_end_node
+nav_path
+c_killed
+dead
+health
+c_removed
+det
+enemy
+log
+format_stats
+self
+?entity
+?store
+?pi
+end_ni
+eval_set_prop
+overrides
+add_comps
+pairs
+components
+editor
+self
++entity
++store
+insert
+editor_script
+self
+entity
+store
+remove
+editor_script
+self
+entity
+store
+traceback
+debug)Error running editor_script coro: %s
+error
+dead
+status
+resume
+create
+coroutine
+runs
+update
+editor_script
+entities
+filter_iter
+log
+self
+=dt
+=ts
+=store
+1success
+error
+% $
+: %
+1 '
+: &
+1 )
+: (
+% *
+: %
+7 *
+1!,
+:!& 7 *
+1!.
+:!- 7 *
+1!0
+:!/ 7 *
+1!1
+:!( 2 
+: 2
+7 2
+%!2
+:!% 7 2
+1!3
+:!/ 2 
+: 4
+7 4
+%!4
+:!% 7 4
+1!5
+:!( 2 
+: 6
+7 6
+%!6
+:!% 7 6
+1!7
+:!& 7 6
+1!8
+:!/ 7 6
+1!:
+:!9 2 
+: ;
+7 ;
+%!;
+:!% 7 ;
+1!=
+:!< 7 ;
+1!?
+:!> 7 ;
+1!@
+:!/ 7 ;
+1!A
+:!( 7 ;
+1!B
+:!9 2 
+: C
+7 C
+%!C
+:!% 7 C
+1!D
+:!& 7 C
+1!E
+:!/ 7 C
+1!F
+:!( 2 
+: G
+7 G
+%!G
+:!% 7 G
+1!H
+:!& 7 G
+1!I
+:!< 7 G
+1!J
+:!> 7 G
+1!K
+:!9 2 
+: L
+7 L
+%!L
+:!% 7 L
+1!M
+:!( 2 
+: N
+7 N
+%!N
+:!% 7 N
+1!O
+:!( 2 
+: P
+7 P
+%!P
+:!% 7 P
+1!Q
+:!( 2 
+: R
+7 R
+%!R
+:!% 7 R
+1!S
+:!/ 7 R
+1!T
+:!( 2 
+: U
+7 U
+%!U
+:!% 7 U
+1!V
+:!( 2 
+: W
+7 W
+%!W
+:!% 7 W
+1!X
+:!/ 7 W
+1!Y
+:!9 2 
+: Z
+7 Z
+%!Z
+:!% 7 Z
+1![
+:!/ 7 Z
+1!\
+:!9 7 Z
+1!]
+:!( 2 
+: ^
+7 ^
+%!^
+:!% 7 ^
+1!_
+:!& 7 ^
+1!`
+:!/ 7 ^
+1!a
+:!9 7 ^
+1!b
+:!( 2 
+: c
+7 c
+%!c
+:!% 7 c
+1!d
+:!/ 7 c
+1!e
+:!9 2 
+: f
+7 f
+%!f
+:!% 7 f
+1!g
+:!& 7 f
+1!h
+:!/ 7 f
+1!i
+:!( 2 
+: j
+7 j
+%!j
+:!% 1 k
+7!j
+1"l
+:"&!7!j
+1"m
+:"/!7!j
+1"n
+:"9!2!
+:!o
+7!o
+%"o
+:"%!7!o
+1"p
+:"/!2!
+:!q
+7!q
+%"q
+:"%!7!q
+1"r
+:"/!7!q
+1"s
+:"9!7!q
+1"t
+:"(!0
+editor_script
+editor_overrides
+dbg_enemy_tracker
+seen_tracker
+sound_events
+render
+particle_system
+texts
+goal_line
+tween
+timed
+pops
+hero_xp_tracking
+count_groups
+health
+on_dequeue
+on_queue
+main_script
+on_remove
+game_upgrades
+tower_upgrade
+mod_lifecycle
+on_insert
+force_next_wave
+wave_spawn
+on_update
+init
+name
+level
+constants
+bnot
+bor
+band
+bit
+storage
+klua.vector
+level_utils
+script_utils
+utils
+wave_db
+upgrades
+sound_db
+game_settings
+grid_db
+klove.font_db
+path_db
+entity_db
+klove.shader_db
+klove.image_db
+difficulty
+achievements
+klove.animation_db
+klua.dump
+klua.table
+hump.signal
+klua.macros
+systems
+new
+klua.log
+require
+log
+log_xp
+log_hp
+signal
+storage
+bit
+band
+bor
+bnot
+queue_insert
+queue_remove
+fts
+sys
+spawner
+format_stats

@@ -1,0 +1,548 @@
+[
+  {
+    "name": "achievements",
+    "group": "misc",
+    "file": "misc/achievements.png",
+    "bytes": 130016,
+    "w": 512
+  },
+  {
+    "name": "comic_1",
+    "group": "comics",
+    "file": "comics/comic_1.png",
+    "bytes": 96276,
+    "w": 768
+  },
+  {
+    "name": "comic_2",
+    "group": "comics",
+    "file": "comics/comic_2.png",
+    "bytes": 153805,
+    "w": 768
+  },
+  {
+    "name": "comic_3",
+    "group": "comics",
+    "file": "comics/comic_3.png",
+    "bytes": 168885,
+    "w": 768
+  },
+  {
+    "name": "comic_4",
+    "group": "comics",
+    "file": "comics/comic_4.png",
+    "bytes": 148138,
+    "w": 768
+  },
+  {
+    "name": "comic_5",
+    "group": "comics",
+    "file": "comics/comic_5.png",
+    "bytes": 149914,
+    "w": 768
+  },
+  {
+    "name": "comic_6",
+    "group": "comics",
+    "file": "comics/comic_6.png",
+    "bytes": 137238,
+    "w": 768
+  },
+  {
+    "name": "comic_7",
+    "group": "comics",
+    "file": "comics/comic_7.png",
+    "bytes": 196691,
+    "w": 768
+  },
+  {
+    "name": "comic_8",
+    "group": "comics",
+    "file": "comics/comic_8.png",
+    "bytes": 84002,
+    "w": 768
+  },
+  {
+    "name": "comic_9",
+    "group": "comics",
+    "file": "comics/comic_9.png",
+    "bytes": 202178,
+    "w": 768
+  },
+  {
+    "name": "encyclopedia",
+    "group": "misc",
+    "file": "misc/encyclopedia.png",
+    "bytes": 14486,
+    "w": 512
+  },
+  {
+    "name": "encyclopedia_thumbs",
+    "group": "misc",
+    "file": "misc/encyclopedia_thumbs.png",
+    "bytes": 48218,
+    "w": 512
+  },
+  {
+    "name": "go_enemies_ancient_metropolis",
+    "group": "enemies",
+    "file": "enemies/go_enemies_ancient_metropolis.png",
+    "bytes": 284564,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_bittering_rancor",
+    "group": "enemies",
+    "file": "enemies/go_enemies_bittering_rancor.png",
+    "bytes": 228925,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_common",
+    "group": "enemies",
+    "file": "enemies/go_enemies_common.png",
+    "bytes": 226377,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_elven_woods",
+    "group": "enemies",
+    "file": "enemies/go_enemies_elven_woods.png",
+    "bytes": 220961,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_faerie_grove",
+    "group": "enemies",
+    "file": "enemies/go_enemies_faerie_grove.png",
+    "bytes": 261538,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_forgotten_treasures",
+    "group": "enemies",
+    "file": "enemies/go_enemies_forgotten_treasures.png",
+    "bytes": 163832,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_hulking_rage",
+    "group": "enemies",
+    "file": "enemies/go_enemies_hulking_rage.png",
+    "bytes": 179438,
+    "w": 768
+  },
+  {
+    "name": "go_enemies_mactans_malicia",
+    "group": "enemies",
+    "file": "enemies/go_enemies_mactans_malicia.png",
+    "bytes": 130225,
+    "w": 768
+  },
+  {
+    "name": "go_hero_alleria",
+    "group": "heroes",
+    "file": "heroes/go_hero_alleria.png",
+    "bytes": 36264,
+    "w": 512
+  },
+  {
+    "name": "go_hero_arivan",
+    "group": "heroes",
+    "file": "heroes/go_hero_arivan.png",
+    "bytes": 92625,
+    "w": 512
+  },
+  {
+    "name": "go_hero_baby_malik",
+    "group": "heroes",
+    "file": "heroes/go_hero_baby_malik.png",
+    "bytes": 43899,
+    "w": 512
+  },
+  {
+    "name": "go_hero_bolverk",
+    "group": "heroes",
+    "file": "heroes/go_hero_bolverk.png",
+    "bytes": 65640,
+    "w": 512
+  },
+  {
+    "name": "go_hero_bravebark",
+    "group": "heroes",
+    "file": "heroes/go_hero_bravebark.png",
+    "bytes": 90072,
+    "w": 512
+  },
+  {
+    "name": "go_hero_bruce",
+    "group": "heroes",
+    "file": "heroes/go_hero_bruce.png",
+    "bytes": 48883,
+    "w": 512
+  },
+  {
+    "name": "go_hero_catha",
+    "group": "heroes",
+    "file": "heroes/go_hero_catha.png",
+    "bytes": 73447,
+    "w": 512
+  },
+  {
+    "name": "go_hero_durax",
+    "group": "heroes",
+    "file": "heroes/go_hero_durax.png",
+    "bytes": 82233,
+    "w": 512
+  },
+  {
+    "name": "go_hero_elves_archer",
+    "group": "heroes",
+    "file": "heroes/go_hero_elves_archer.png",
+    "bytes": 51133,
+    "w": 512
+  },
+  {
+    "name": "go_hero_elves_denas",
+    "group": "heroes",
+    "file": "heroes/go_hero_elves_denas.png",
+    "bytes": 55665,
+    "w": 512
+  },
+  {
+    "name": "go_hero_faustus",
+    "group": "heroes",
+    "file": "heroes/go_hero_faustus.png",
+    "bytes": 73540,
+    "w": 512
+  },
+  {
+    "name": "go_hero_lilith",
+    "group": "heroes",
+    "file": "heroes/go_hero_lilith.png",
+    "bytes": 81518,
+    "w": 512
+  },
+  {
+    "name": "go_hero_lynn",
+    "group": "heroes",
+    "file": "heroes/go_hero_lynn.png",
+    "bytes": 58119,
+    "w": 512
+  },
+  {
+    "name": "go_hero_phoenix",
+    "group": "heroes",
+    "file": "heroes/go_hero_phoenix.png",
+    "bytes": 67019,
+    "w": 512
+  },
+  {
+    "name": "go_hero_rag",
+    "group": "heroes",
+    "file": "heroes/go_hero_rag.png",
+    "bytes": 77788,
+    "w": 512
+  },
+  {
+    "name": "go_hero_regson",
+    "group": "heroes",
+    "file": "heroes/go_hero_regson.png",
+    "bytes": 95712,
+    "w": 512
+  },
+  {
+    "name": "go_hero_veznan",
+    "group": "heroes",
+    "file": "heroes/go_hero_veznan.png",
+    "bytes": 63586,
+    "w": 512
+  },
+  {
+    "name": "go_hero_wilbur",
+    "group": "heroes",
+    "file": "heroes/go_hero_wilbur.png",
+    "bytes": 87422,
+    "w": 512
+  },
+  {
+    "name": "go_hero_xin",
+    "group": "heroes",
+    "file": "heroes/go_hero_xin.png",
+    "bytes": 87466,
+    "w": 512
+  },
+  {
+    "name": "bg_01",
+    "group": "stages",
+    "file": "stages/bg_01.png",
+    "bytes": 431846,
+    "w": 1280
+  },
+  {
+    "name": "bg_02",
+    "group": "stages",
+    "file": "stages/bg_02.png",
+    "bytes": 413645,
+    "w": 1280
+  },
+  {
+    "name": "bg_03",
+    "group": "stages",
+    "file": "stages/bg_03.png",
+    "bytes": 446313,
+    "w": 1280
+  },
+  {
+    "name": "bg_04",
+    "group": "stages",
+    "file": "stages/bg_04.png",
+    "bytes": 404023,
+    "w": 1280
+  },
+  {
+    "name": "bg_05",
+    "group": "stages",
+    "file": "stages/bg_05.png",
+    "bytes": 363899,
+    "w": 1280
+  },
+  {
+    "name": "bg_06",
+    "group": "stages",
+    "file": "stages/bg_06.png",
+    "bytes": 418048,
+    "w": 1280
+  },
+  {
+    "name": "bg_07",
+    "group": "stages",
+    "file": "stages/bg_07.png",
+    "bytes": 434081,
+    "w": 1280
+  },
+  {
+    "name": "bg_08",
+    "group": "stages",
+    "file": "stages/bg_08.png",
+    "bytes": 426052,
+    "w": 1280
+  },
+  {
+    "name": "bg_09",
+    "group": "stages",
+    "file": "stages/bg_09.png",
+    "bytes": 413508,
+    "w": 1280
+  },
+  {
+    "name": "bg_10",
+    "group": "stages",
+    "file": "stages/bg_10.png",
+    "bytes": 455783,
+    "w": 1280
+  },
+  {
+    "name": "bg_11",
+    "group": "stages",
+    "file": "stages/bg_11.png",
+    "bytes": 449735,
+    "w": 1280
+  },
+  {
+    "name": "bg_12",
+    "group": "stages",
+    "file": "stages/bg_12.png",
+    "bytes": 493204,
+    "w": 1280
+  },
+  {
+    "name": "bg_13",
+    "group": "stages",
+    "file": "stages/bg_13.png",
+    "bytes": 490524,
+    "w": 1280
+  },
+  {
+    "name": "bg_14",
+    "group": "stages",
+    "file": "stages/bg_14.png",
+    "bytes": 542097,
+    "w": 1280
+  },
+  {
+    "name": "bg_15",
+    "group": "stages",
+    "file": "stages/bg_15.png",
+    "bytes": 493405,
+    "w": 1280
+  },
+  {
+    "name": "bg_16",
+    "group": "stages",
+    "file": "stages/bg_16.png",
+    "bytes": 435817,
+    "w": 1280
+  },
+  {
+    "name": "bg_17",
+    "group": "stages",
+    "file": "stages/bg_17.png",
+    "bytes": 419412,
+    "w": 1280
+  },
+  {
+    "name": "bg_18",
+    "group": "stages",
+    "file": "stages/bg_18.png",
+    "bytes": 409178,
+    "w": 1280
+  },
+  {
+    "name": "bg_19",
+    "group": "stages",
+    "file": "stages/bg_19.png",
+    "bytes": 436973,
+    "w": 1280
+  },
+  {
+    "name": "bg_20",
+    "group": "stages",
+    "file": "stages/bg_20.png",
+    "bytes": 408176,
+    "w": 1280
+  },
+  {
+    "name": "bg_21",
+    "group": "stages",
+    "file": "stages/bg_21.png",
+    "bytes": 494866,
+    "w": 1280
+  },
+  {
+    "name": "bg_22",
+    "group": "stages",
+    "file": "stages/bg_22.png",
+    "bytes": 476863,
+    "w": 1280
+  },
+  {
+    "name": "go_towers",
+    "group": "towers",
+    "file": "towers/go_towers.png",
+    "bytes": 239510,
+    "w": 768
+  },
+  {
+    "name": "gui_common",
+    "group": "gui",
+    "file": "gui/gui_common.png",
+    "bytes": 138366,
+    "w": 640
+  },
+  {
+    "name": "gui_notifications_bg",
+    "group": "gui",
+    "file": "gui/gui_notifications_bg.png",
+    "bytes": 33913,
+    "w": 640
+  },
+  {
+    "name": "gui_notifications_common",
+    "group": "gui",
+    "file": "gui/gui_notifications_common.png",
+    "bytes": 60769,
+    "w": 640
+  },
+  {
+    "name": "gui_portraits",
+    "group": "gui",
+    "file": "gui/gui_portraits.png",
+    "bytes": 191125,
+    "w": 640
+  },
+  {
+    "name": "gui_shop",
+    "group": "gui",
+    "file": "gui/gui_shop.png",
+    "bytes": 42314,
+    "w": 640
+  },
+  {
+    "name": "gui_shop_bg",
+    "group": "gui",
+    "file": "gui/gui_shop_bg.png",
+    "bytes": 69434,
+    "w": 640
+  },
+  {
+    "name": "gui_tutorial",
+    "group": "gui",
+    "file": "gui/gui_tutorial.png",
+    "bytes": 92128,
+    "w": 640
+  },
+  {
+    "name": "loading_ancient_metropolis",
+    "group": "loading",
+    "file": "loading/loading_ancient_metropolis.png",
+    "bytes": 143377,
+    "w": 640
+  },
+  {
+    "name": "loading_bittering_rancor",
+    "group": "loading",
+    "file": "loading/loading_bittering_rancor.png",
+    "bytes": 158214,
+    "w": 640
+  },
+  {
+    "name": "loading_common",
+    "group": "loading",
+    "file": "loading/loading_common.png",
+    "bytes": 4324,
+    "w": 640
+  },
+  {
+    "name": "loading_elven_woods",
+    "group": "loading",
+    "file": "loading/loading_elven_woods.png",
+    "bytes": 170685,
+    "w": 640
+  },
+  {
+    "name": "loading_faerie_grove",
+    "group": "loading",
+    "file": "loading/loading_faerie_grove.png",
+    "bytes": 147311,
+    "w": 640
+  },
+  {
+    "name": "loading_forgotten_treasures",
+    "group": "loading",
+    "file": "loading/loading_forgotten_treasures.png",
+    "bytes": 154852,
+    "w": 640
+  },
+  {
+    "name": "loading_hulking_rage",
+    "group": "loading",
+    "file": "loading/loading_hulking_rage.png",
+    "bytes": 131829,
+    "w": 640
+  },
+  {
+    "name": "screen_map",
+    "group": "screens",
+    "file": "screens/screen_map.png",
+    "bytes": 357022,
+    "w": 960
+  },
+  {
+    "name": "screen_splash",
+    "group": "screens",
+    "file": "screens/screen_splash.png",
+    "bytes": 79928,
+    "w": 960
+  }
+]

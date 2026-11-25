@@ -1,0 +1,9 @@
+<view class="wechat-login">
+    <view class="crest">✦</view>
+    <text class="login-title">王国保卫战：起源</text>
+    <text class="login-desc">登录以云端保存你的征战进度</text>
+    <button class="login-btn" loading="{{loggingIn}}" disabled="{{loggingIn}}" bindtap="login">
+        微信一键登录
+    </button>
+    <text class="login-error" wx:if="{{error}}">{{error}}</text>
+</view>

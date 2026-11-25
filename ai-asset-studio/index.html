@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>魔搭素材工坊 · Kingdom Rush Origins</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="app">
+  <header class="topbar">
+    <div class="brand">
+      <div class="crest">✦</div>
+      <div>
+        <h1>魔搭素材工坊</h1>
+        <p>KINGDOM RUSH ORIGINS <span>·</span> ART STUDIO</p>
+      </div>
+    </div>
+    <div class="status"><i id="tokenDot"></i><span id="tokenText">检测令牌…</span></div>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="generate">生图工坊 <b>4</b></button>
+    <button class="tab-btn" data-tab="gallery">作品画廊</button>
+    <button class="tab-btn" data-tab="assets">游戏素材库</button>
+  </nav>
+
+  <main>
+    <!-- 生图 -->
+    <section class="tab-page active" id="page-generate">
+      <div class="gen-layout">
+        <div class="panel form-panel">
+          <div class="panel-head"><h2>创作设置</h2><span>每次生成 4 张变体</span></div>
+          <div class="ms-studio">
+            <div class="ms-block">
+              <div class="ms-label"><i class="dot"></i>正向提示词 <em>PROMPT</em><span class="ms-count" id="promptCount">0 字</span></div>
+              <textarea id="promptInput" class="ms-textarea" rows="7" placeholder="只需输入简短目标，例如：精灵森林里的古老石路与哨塔 —— 点击生成时会自动扩写增强"></textarea>
+              <div class="ms-tools"><div class="chips ms-chips" id="presetChips"></div><button id="enhanceBtn" class="ms-mini" type="button">✦ 仅增强</button><button id="clearPrompt" class="ms-mini" type="button">清空</button></div>
+              <label class="ms-auto"><input type="checkbox" id="autoEnhance" checked><span>生成时自动增强提示词（魔搭文本模型）</span></label>
+              <div class="ms-enhanced hidden" id="enhancedBox">
+                <div class="ms-enhanced-head">已增强 · <span id="enhancedMeta"></span></div>
+                <div class="ms-enhanced-text" id="enhancedText"></div>
+              </div>
+            </div>
+            <div class="ms-block">
+              <div class="ms-label"><i class="dot neg"></i>反向提示词 <em>NEGATIVE PROMPT</em></div>
+              <textarea id="negativeInput" class="ms-textarea neg" rows="3" placeholder="不希望出现的内容，例如：文字、水印、照片写实、模糊"></textarea>
+            </div>
+            <div class="ms-params">
+              <div class="ms-param"><label>模型</label><select id="modelSelect" class="text-input"></select></div>
+              <div class="ms-param"><label>尺寸</label><select id="sizeSelect" class="text-input">
+                <option value="1280x720">1280 × 720（关卡横版）</option>
+                <option value="1024x1536">1024 × 1536（3:4 竖版）</option>
+                <option value="1024x1024">1024 × 1024（方形）</option>
+                <option value="1536x1024">1536 × 1024（横版大图）</option>
+              </select></div>
+              <div class="ms-param"><label>步数</label><input id="stepsInput" class="text-input" type="number" min="1" max="60" value="8"></div>
+              <div class="ms-param"><label>种子 <small>（四张依次 +1）</small></label><input id="seedInput" class="text-input" type="number" placeholder="留空随机"></div>
+              <div class="ms-param"><label>批次名称</label><input id="titleInput" class="text-input" placeholder="可选"></div>
+            </div>
+            <button id="generateBtn" class="generate-btn">生成 4 张 <span>✦</span></button>
+            <p class="hint" id="genHint">调用魔搭 API-Inference，约 1–3 分钟完成一组。</p>
+          </div>
+        </div>
+
+        <div class="panel result-panel">
+          <div class="panel-head"><h2>本次产出</h2><span id="resultMeta">等待生成</span></div>
+          <div class="progress-wrap" id="progressWrap"><div class="progress"><i id="progressBar"></i></div><span id="progressText"></span></div>
+          <div class="result-grid" id="resultGrid"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 画廊 -->
+    <section class="tab-page" id="page-gallery">
+      <div class="toolbar">
+        <input id="gallerySearch" class="text-input search" placeholder="搜索提示词 / 批次名…">
+        <select id="gallerySource" class="text-input"><option value="all">全部来源</option><option value="studio">工坊产出</option><option value="legacy">历史批次</option></select>
+        <span class="toolbar-count" id="galleryCount"></span>
+      </div>
+      <div id="galleryList" class="gallery-list"></div>
+    </section>
+
+    <!-- 游戏素材 -->
+    <section class="tab-page" id="page-assets">
+      <div class="toolbar"><input id="assetSearch" class="text-input search" placeholder="搜索素材文件名…"><span class="toolbar-count" id="assetCount"></span></div>
+      <div class="chips" id="assetChips"></div>
+      <div id="assetList" class="asset-list"></div>
+    </section>
+  </main>
+</div>
+
+<div class="lightbox hidden" id="lightbox">
+  <button class="lb-close" id="lbClose" aria-label="关闭">×</button>
+  <button class="lb-nav lb-prev" id="lbPrev" aria-label="上一张">‹</button>
+  <figure><img id="lbImage" alt=""><figcaption><h3 id="lbTitle"></h3><p id="lbMeta"></p><p class="lb-prompt" id="lbPrompt"></p></figcaption></figure>
+  <button class="lb-nav lb-next" id="lbNext" aria-label="下一张">›</button>
+  <a class="lb-download" id="lbDownload" href="#" download>下载原图</a>
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>

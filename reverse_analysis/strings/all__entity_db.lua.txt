@@ -1,0 +1,144 @@
+@./all/entity_db.lua
+require
+script_utils
+scripts
+game_scripts
+templates
+game_templates
+loaded
+package
+entities
+components
+last_id
+self
+&I&
+template_name$template base %s does not exist
+string
+type
+template %s already exists
+error
+entities
+log
+copy
+self
+'name
+'base
+"E?
+%component base %s does not exist
+string
+type component %s already exists
+error
+components
+log
+copy
+self
+#name
+#base
+ component %s does not exist
+error
+components
+log
+copy
+self
+name
+ component %s does not exist
+components
+pairs
+entity is nil
+error
+log
+copy
+self
+ entity
+last_id
+template %s not found
+error
+entities
+string
+type
+log
+copy
+self
+tpl
+out
+last_id
+copy
+self
+out
+template %s not found
+entities
+pairs
+entity is nil
+error
+log
+copy
+self
+%entity
+tpl
+component %s not found
+error
+components
+string
+type
+log
+self
+cmp
+template %s not found
+error
+entities
+string
+type
+log
+self
+tpl
+entities
+self
+name
+insert
+table
+pairs
+self
+entities
+result
+next
+self
+entities
+next_entity
+entities
+filter
+self
+insert
+table
+match
+string
+entities
+pairs
+self
+results
+search_entity
+filter_templates
+filter_iter
+filter
+set_template
+get_template
+get_component
+append_templates
+clone_entity
+create_entity
+add_comps
+clone_c
+register_c
+register_t
+load
+last_id
+deepclone
+table
+klua.table
+entity_db
+new
+klua.log
+require
+=&P?XRfZwh~y
+log
+(copy
+#entity_db

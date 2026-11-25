@@ -1,0 +1,42 @@
+<view class="story-page">
+    <view class="page-head">
+        <text class="page-title kro-title">起源史诗</text>
+        <text class="page-sub">九幕漫画 · 艾纳妮之泪的传说</text>
+    </view>
+
+    <view class="chapter-tabs">
+        <view wx:for="{{comics}}" wx:key="id" class="chapter-tab {{index === current.id - 1 ? 'active' : ''}}"
+              data-index="{{index}}" bindtap="onSelect">{{item.id}}</view>
+    </view>
+
+    <view class="comic-card parchment" wx:if="{{current}}">
+        <view class="comic-head">
+            <text class="comic-chapter">第 {{current.id}} 幕</text>
+            <text class="comic-title">{{current.title}}</text>
+        </view>
+        <view class="comic-scene">
+            <view class="scene-glyph">{{current.id}}</view>
+        </view>
+        <view class="dialogue-list">
+            <view class="dialogue" wx:for="{{current.lines}}" wx:key="index">
+                <text class="speaker">{{item.speaker}}</text>
+                <text class="line-text">{{item.text}}</text>
+            </view>
+        </view>
+        <view class="comic-nav">
+            <view class="nav-btn" bindtap="onPrev">‹ 上一幕</view>
+            <text class="nav-count">{{current.id}} / {{comics.length}}</text>
+            <view class="nav-btn" bindtap="onNext">下一幕 ›</view>
+        </view>
+    </view>
+
+    <view class="ach-block">
+        <view class="ach-head" bindtap="toggleAchievements">
+            <text>🏆 成就殿堂（{{achievements.length}}）</text>
+            <text>{{showAchievements ? '收起 ▲' : '展开 ▼'}}</text>
+        </view>
+        <view class="ach-grid" wx:if="{{showAchievements}}">
+            <view class="ach-item" wx:for="{{achievements}}" wx:key="*this">★ {{item}}</view>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "王国保卫战：起源",
+  "usingComponents": {
+    "login-panel": "../../components/login-panel/login-panel"
+  }
+}

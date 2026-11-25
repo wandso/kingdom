@@ -1,0 +1,99 @@
+<view class="battle-page">
+    <!-- 顶部 HUD -->
+    <view class="hud">
+        <view class="hud-item"><text class="hud-ico">⛁</text><text class="hud-val">{{gold}}</text></view>
+        <view class="hud-item"><text class="hud-ico heart">♥</text><text class="hud-val">{{lives}}</text></view>
+        <view class="hud-item wave"><text class="hud-val">波次 {{wave}}/{{totalWaves}}</text></view>
+        <view class="hud-actions">
+            <view class="hud-btn" bindtap="onSpeed">×{{speed}}</view>
+            <view class="hud-btn" bindtap="onTogglePause">{{status === 'paused' ? '▶' : '❚❚'}}</view>
+        </view>
+    </view>
+
+    <!-- 战场画布 -->
+    <view class="canvas-wrap">
+        <canvas canvas-id="battleCanvas" id="battleCanvas" class="battle-canvas" bindtap="onCanvasTap" disable-scroll="true"></canvas>
+    </view>
+
+    <!-- 底部技能栏 -->
+    <view class="skill-bar">
+        <view class="skill-slot {{powerCd[item.id] > 0 ? 'cooling' : ''}}" wx:for="{{powers}}" wx:key="id"
+              data-id="{{item.id}}" bindtap="onPowerTap">
+            <text class="skill-ico">{{item.id === 'thunder' ? '⚡' : (item.id === 'reinforce' ? '⚔' : '✦')}}</text>
+            <text class="skill-name">{{item.nameZh}}</text>
+            <text class="skill-cd" wx:if="{{powerCd[item.id] > 0}}">{{powerCd[item.id]}}</text>
+        </view>
+        <view class="skill-slot call-wave" bindtap="onCallWave">
+            <text class="skill-ico">»</text>
+            <text class="skill-name">召唤下一波</text>
+        </view>
+    </view>
+
+    <!-- 建塔面板 -->
+    <view class="overlay" wx:if="{{panelOpen}}" bindtap="closeAllPanels">
+        <view class="build-panel" catchtap="">
+            <text class="panel-title kro-title">选择防御塔</text>
+            <text class="panel-sub">在路口建塔，阻击来犯之敌</text>
+            <scroll-view scroll-y class="tower-list">
+                <view class="tower-card" wx:for="{{towerOptions}}" wx:key="id" data-id="{{item.id}}" bindtap="onBuildTap">
+                    <view class="tower-icon" style="background:{{item.color}}">{{item.icon}}</view>
+                    <view class="tower-info">
+                        <text class="tower-name">{{item.nameZh}}</text>
+                        <text class="tower-desc">{{item.desc}}</text>
+                        <view class="tower-stats">
+                            <text>伤害 {{item.damage}}</text><text>射程 {{item.range}}</text><text>攻速 {{item.rate}}</text>
+                        </view>
+                    </view>
+                    <view class="tower-cost {{gold < item.cost ? 'poor' : ''}}">⛁ {{item.cost}}</view>
+                </view>
+            </scroll-view>
+            <view class="panel-close" bindtap="closeAllPanels">关闭</view>
+        </view>
+    </view>
+
+    <!-- 已建塔操作面板 -->
+    <view class="overlay" wx:if="{{towerPanelOpen}}" bindtap="closeAllPanels">
+        <view class="tower-op-panel" catchtap="">
+            <text class="panel-title kro-title">{{selectedTower.def.nameZh || '防御塔'}} · Lv.{{selectedTower.level}}</text>
+            <view class="op-stats">
+                <text>伤害 {{selectedTower.def.damage}} · 射程 {{selectedTower.def.range}} · 攻速 {{selectedTower.def.rate}}</text>
+            </view>
+            <view class="op-buttons">
+                <view class="op-btn wood-btn" bindtap="onUpgrade">升级</view>
+                <view class="op-btn sell-btn" bindtap="onSell">出售 +⛁{{selectedTower.def.cost}}</view>
+            </view>
+            <view class="panel-close" bindtap="closeAllPanels">关闭</view>
+        </view>
+    </view>
+
+    <!-- 剧情开场 -->
+    <view class="overlay story-overlay" wx:if="{{showStory}}">
+        <view class="story-card parchment">
+            <text class="story-chapter">第 {{level.id}} 关 · {{level.nameZh}}</text>
+            <text class="story-en">{{level.nameEn}}</text>
+            <scroll-view scroll-y class="story-text"><text>{{level.history}}</text></scroll-view>
+            <view class="story-fight wood-btn" bindtap="startBattle">开始战斗 ⚔</view>
+        </view>
+    </view>
+
+    <!-- 结算 -->
+    <view class="overlay" wx:if="{{result}}">
+        <view class="result-card parchment">
+            <text class="result-title kro-title">{{result.win ? '胜 利' : '防 线 失 守'}}</text>
+            <view class="result-stars" wx:if="{{result.win}}">
+                <text wx:for="{{starArr}}" wx:for-item="s" wx:key="*this" class="rstar {{s < result.stars ? 'on' : ''}}">★</text>
+            </view>
+            <view class="result-line"><text>抵达波次</text><text>{{result.wave}}/{{totalWaves}}</text></view>
+            <view class="result-line"><text>得分</text><text>{{result.score}}</text></view>
+            <view class="result-line"><text>剩余生命</text><text>{{result.lives}}</text></view>
+            <view class="result-buttons">
+                <view class="op-btn wood-btn" bindtap="onResultRestart">重玩</view>
+                <view class="op-btn wood-btn" wx:if="{{result.win}}" bindtap="onResultNext">下一关</view>
+                <view class="op-btn wood-btn" bindtap="onResultBack">返回</view>
+            </view>
+        </view>
+    </view>
+
+    <!-- 浮动提示 -->
+    <view class="battle-toast" wx:if="{{toast}}">{{toast}}</view>
+</view>

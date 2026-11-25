@@ -1,0 +1,49 @@
+{
+  "id": "20261125-210843-99e3c4",
+  "title": "奇幻风格木系小怪物",
+  "style": "custom",
+  "prompt": "wide establishing shot horizontal composition featuring a hollow oak log creature friendly grinning face three feet tall with textured grey bark armor and glowing vibrant amber eyes holding a rough wooden acorn staff standing prominently in center midground thick mossy ground cover covered in irregular brown leaves occupying foreground area ten centimeters deep lush red mushroom clusters growing along dark soil spanning three meters wide scattered fallen branches positioned diagonally near creature base ancient stone watchtower faint silhouetted shape rising above dense green forest canopy in background plane located forty meters distant dappled morning sunlight streaming strongly from top left corner creating cool blue shadow areas contrasting with warm golden highlight zones high contrast wooden surfaces intense color saturation throughout entire scene hand-painted fantasy tower defense game concept art whimsical medieval cartoon rendering bold clean shapes saturated emerald violet jewel tones visible brushstroke detailed painterly textures no text no logo no watermark no photograph",
+  "negative": "text, watermark, logo, blurry, low resolution",
+  "model": "Qwen/Qwen-Image-2.1-Turbo",
+  "size": "1024x1024",
+  "steps": 8,
+  "guidance": null,
+  "seed": null,
+  "created": "2026-11-25 21:09:40",
+  "images": [
+    {
+      "index": 1,
+      "status": "完成",
+      "file": "01.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/6c21f48c-636e-42bc-8a86-795cc03f0527.png"
+    },
+    {
+      "index": 2,
+      "status": "完成",
+      "file": "02.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/43bc6639-4d0d-4527-8840-28fc9dc73240.png"
+    },
+    {
+      "index": 3,
+      "status": "完成",
+      "file": "03.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/4ea02bfa-5998-4595-94e4-a226b59fb588.png"
+    },
+    {
+      "index": 4,
+      "status": "完成",
+      "file": "04.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/93a96d80-a5c3-4c17-8286-a21a4fa6aee5.png"
+    }
+  ],
+  "task_ids": [
+    "79f3aa2c-ec80-4647-bef3-c5cad5ad7f1e",
+    "dbcde873-e5b0-439f-a518-6c6c0bf41f0f",
+    "3a3642b9-14b0-4318-b52d-2b0403b8f11c",
+    "5cc268eb-49e5-480c-9dbd-5115432dbc1b"
+  ]
+}

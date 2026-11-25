@@ -1,0 +1,36 @@
+<view class="heroes-page">
+    <view class="page-head">
+        <text class="page-title kro-title">英雄图鉴</text>
+        <text class="page-sub">每位英雄都拥有独特的技能与法术</text>
+    </view>
+
+    <scroll-view scroll-x class="hero-strip">
+        <view wx:for="{{heroes}}" wx:key="id" class="hero-chip {{current.id === item.id ? 'active' : ''}} {{item.unlocked ? '' : 'locked'}}"
+              data-id="{{item.id}}" bindtap="onHeroTap">
+            <view class="chip-face" style="background:{{item.color}}">{{item.initial}}</view>
+            <text class="chip-name">{{item.nameZh}}</text>
+        </view>
+    </scroll-view>
+
+    <view class="hero-detail parchment" wx:if="{{current}}">
+        <view class="detail-head">
+            <view class="detail-avatar" style="background:{{current.color}}">{{current.initial}}</view>
+            <view class="detail-id">
+                <text class="detail-name">{{current.nameZh}}</text>
+                <text class="detail-en">{{current.nameEn}} · {{current.cls}}</text>
+                <text class="detail-lock" wx:if="{{!current.unlocked}}">🔒 尚未解锁</text>
+            </view>
+        </view>
+        <text class="detail-desc">{{current.desc}}</text>
+
+        <text class="section-h">技 能</text>
+        <view class="skill-card" wx:for="{{current.skills}}" wx:key="nameZh">
+            <view class="skill-badge">{{index + 1}}</view>
+            <view class="skill-body">
+                <text class="skill-n">{{item.nameZh}}</text>
+                <text class="skill-en">{{item.nameEn}}</text>
+                <text class="skill-d">{{item.desc}}</text>
+            </view>
+        </view>
+    </view>
+</view>

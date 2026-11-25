@@ -1,0 +1,8572 @@
+[
+ {
+  "path": "features.lua",
+  "size": 440,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3-desktop/map_decos_functions.lua",
+  "size": 3890,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3-desktop/data/director_data.lua",
+  "size": 994,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/iap_data.lua",
+  "size": 390,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/comics/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3-desktop/data/comics/08.csv",
+  "size": 1571,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/09.csv",
+  "size": 1671,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/02.csv",
+  "size": 1845,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/03.csv",
+  "size": 2575,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/01.csv",
+  "size": 1791,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/04.csv",
+  "size": 1779,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/05.csv",
+  "size": 1137,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/07.csv",
+  "size": 1698,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/comics/06.csv",
+  "size": 2078,
+  "type": "csv"
+ },
+ {
+  "path": "kr3-desktop/data/map_animations_paths.lua",
+  "size": 5992,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/remote_config_defaults.lua",
+  "size": 158,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/credits_data.lua",
+  "size": 6107,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/map_points.lua",
+  "size": 5905,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/kui_templates/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3-desktop/data/kui_templates/screen_slots.lua",
+  "size": 9093,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/kui_templates/slot_view.lua",
+  "size": 2121,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/game_gui_data.lua",
+  "size": 21294,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/platform_services_ids.lua",
+  "size": 8661,
+  "type": "lua"
+ },
+ {
+  "path": "kr3-desktop/data/map_data.lua",
+  "size": 31043,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/en.lua",
+  "size": 147914,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/ja.lua",
+  "size": 177224,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/kr.lua",
+  "size": 158712,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/ru.lua",
+  "size": 211381,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/fr.lua",
+  "size": 168938,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/es.lua",
+  "size": 164145,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/ko.lua",
+  "size": 167939,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/zh-Hans.lua",
+  "size": 146695,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/pt.lua",
+  "size": 155968,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/zh-Hant.lua",
+  "size": 146076,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/strings/de.lua",
+  "size": 162067,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia_thumbs.lua",
+  "size": 12533,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-5.png",
+  "size": 46564,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-4.png",
+  "size": 134709,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bolverk-1.png",
+  "size": 450386,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_ancient_metropolis.lua",
+  "size": 212298,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_shop_bg.lua",
+  "size": 406,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-12.png",
+  "size": 53221,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_elven_woods-1.png",
+  "size": 2309760,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_hulking_rage.lua",
+  "size": 286,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-20.png",
+  "size": 61768,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-34.png",
+  "size": 61805,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage21.lua",
+  "size": 1758,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage09-1.png",
+  "size": 3011013,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage09.lua",
+  "size": 64776,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage15_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_hulking_rage.lua",
+  "size": 88379,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage08.lua",
+  "size": 78657,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage20.lua",
+  "size": 23798,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-35.png",
+  "size": 45821,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-21.png",
+  "size": 66789,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_5-1.png",
+  "size": 862082,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage07_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-13.png",
+  "size": 59405,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-5.png",
+  "size": 196501,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_bittering_rancor.lua",
+  "size": 23456,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-4.png",
+  "size": 47865,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage03_bg-1.png",
+  "size": 1514068,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage19_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage10-1.png",
+  "size": 275699,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage02_bg-1.png",
+  "size": 1498371,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-6.png",
+  "size": 49954,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-7.png",
+  "size": 151818,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bravebark-1.png",
+  "size": 1643093,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_7-1.png",
+  "size": 983938,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_ancient_metropolis.lua",
+  "size": 169516,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-11.png",
+  "size": 68288,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage12-1.png",
+  "size": 228788,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_mactans_malicia-1.png",
+  "size": 1723161,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bruce-1.png",
+  "size": 926034,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/achievements.lua",
+  "size": 31253,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-37.png",
+  "size": 55137,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-23.png",
+  "size": 65532,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage22.lua",
+  "size": 35718,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage09_bg-1.png",
+  "size": 1529644,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage08_bg-1.png",
+  "size": 1623198,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-22.png",
+  "size": 70022,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-36.png",
+  "size": 55660,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-10.png",
+  "size": 64668,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia.lua",
+  "size": 16605,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-6.png",
+  "size": 163082,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-7.png",
+  "size": 41820,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-2.png",
+  "size": 108359,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-3.png",
+  "size": 54063,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_rag.lua",
+  "size": 64925,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bravebark.lua",
+  "size": 70614,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-14.png",
+  "size": 57685,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-32.png",
+  "size": 50360,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-26.png",
+  "size": 61957,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_veznan-1.png",
+  "size": 1229643,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_shop.lua",
+  "size": 7376,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_common-1.png",
+  "size": 3357451,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_hulking_rage.lua",
+  "size": 59388,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage14_bg-1.png",
+  "size": 2034724,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage15_bg-1.png",
+  "size": 1620270,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage16-1.png",
+  "size": 278133,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_ancient_metropolis.lua",
+  "size": 304,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-27.png",
+  "size": 53700,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-33.png",
+  "size": 74403,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_3-1.png",
+  "size": 911207,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_ancient_metropolis-1.png",
+  "size": 1891990,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-15.png",
+  "size": 67616,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_ancient_metropolis-1.png",
+  "size": 2910149,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_elven_woods.lua",
+  "size": 283,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_regson-1.png",
+  "size": 578543,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-2.png",
+  "size": 43396,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-3.png",
+  "size": 94961,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_elves_denas-1.png",
+  "size": 1005479,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-1.png",
+  "size": 66230,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage21_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-19.png",
+  "size": 57994,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-25.png",
+  "size": 66071,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage14-1.png",
+  "size": 136369,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-31.png",
+  "size": 48536,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage18.lua",
+  "size": 34972,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_1-1.png",
+  "size": 1108382,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage20_bg-1.png",
+  "size": 1477867,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage21_bg-1.png",
+  "size": 1297816,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_elves_archer-1.png",
+  "size": 303415,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage19.lua",
+  "size": 27779,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-30.png",
+  "size": 64081,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-24.png",
+  "size": 66834,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-18.png",
+  "size": 51336,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage05_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage09_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-1.png",
+  "size": 37571,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage17_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bruce.lua",
+  "size": 28386,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_durax.lua",
+  "size": 60369,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_bittering_rancor-1.png",
+  "size": 1038313,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-43.png",
+  "size": 65794,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-57.png",
+  "size": 59087,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage13-1.png",
+  "size": 1530188,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-80.png",
+  "size": 2568,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_common-1.png",
+  "size": 943223,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-94.png",
+  "size": 1943,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_6-1.png",
+  "size": 763002,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_shop_bg-2.png",
+  "size": 341988,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_lilith-2.png",
+  "size": 268607,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_elves_denas.lua",
+  "size": 51650,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-95.png",
+  "size": 2460,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-81.png",
+  "size": 2677,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage13_bg-1.png",
+  "size": 1688116,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage12_bg-1.png",
+  "size": 1727709,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-56.png",
+  "size": 52123,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-42.png",
+  "size": 64673,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_xin-1.png",
+  "size": 1689217,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_common.lua",
+  "size": 106980,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage13_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage08-1.png",
+  "size": 643290,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-54.png",
+  "size": 56301,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-40.png",
+  "size": 50326,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-68.png",
+  "size": 63936,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_bittering_rancor-1.png",
+  "size": 705534,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-83.png",
+  "size": 2642,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_forgotten_treasures-1.png",
+  "size": 1849949,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage01_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_faerie_grove.lua",
+  "size": 111943,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_shop_bg-1.png",
+  "size": 149722,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_lilith-1.png",
+  "size": 1310775,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage11-1.png",
+  "size": 632138,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_elven_woods.lua",
+  "size": 71810,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-82.png",
+  "size": 2402,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-96.png",
+  "size": 1936,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-69.png",
+  "size": 2463,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_4-1.png",
+  "size": 864362,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-41.png",
+  "size": 53227,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-55.png",
+  "size": 53542,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage19_bg-1.png",
+  "size": 1511900,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage18_bg-1.png",
+  "size": 1270710,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_lynn-1.png",
+  "size": 1235388,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_faerie_grove.lua",
+  "size": 286,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage03_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_common-1.png",
+  "size": 2400463,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map-3.png",
+  "size": 1436806,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage15-1.png",
+  "size": 2164909,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage11_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-79.png",
+  "size": 2535,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-51.png",
+  "size": 50225,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-45.png",
+  "size": 56900,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-92.png",
+  "size": 2496,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-86.png",
+  "size": 2472,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_baby_malik-1.png",
+  "size": 768756,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_8.lua",
+  "size": 791,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_9.lua",
+  "size": 927,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-87.png",
+  "size": 2570,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-93.png",
+  "size": 2621,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-44.png",
+  "size": 60510,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-50.png",
+  "size": 53620,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-78.png",
+  "size": 2704,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_wilbur.lua",
+  "size": 57413,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage04_bg-1.png",
+  "size": 1336319,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage05_bg-1.png",
+  "size": 1197323,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map-2.png",
+  "size": 6113495,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_bittering_rancor-1.png",
+  "size": 1929321,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_towers.lua",
+  "size": 573270,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_phoenix.lua",
+  "size": 32263,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage15-2.png",
+  "size": 1122930,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_slots.lua",
+  "size": 51893,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-46.png",
+  "size": 59356,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_elven_woods-1.png",
+  "size": 532721,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-52.png",
+  "size": 50418,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-85.png",
+  "size": 2617,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-91.png",
+  "size": 2195,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_shop-1.png",
+  "size": 503706,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_elves_archer.lua",
+  "size": 17204,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_portraits-1.png",
+  "size": 889945,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_faerie_grove.lua",
+  "size": 133452,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-90.png",
+  "size": 2148,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-84.png",
+  "size": 2431,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-53.png",
+  "size": 44742,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-47.png",
+  "size": 55791,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_2-1.png",
+  "size": 941425,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_phoenix-1.png",
+  "size": 1286431,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map-1.png",
+  "size": 4012996,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_regson.lua",
+  "size": 26809,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage17-1.png",
+  "size": 145579,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_credits-1.png",
+  "size": 341895,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_tutorial-1.png",
+  "size": 545796,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_faerie_grove-1.png",
+  "size": 2829292,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-62.png",
+  "size": 55801,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-76.png",
+  "size": 2607,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-89.png",
+  "size": 2332,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage22_bg-1.png",
+  "size": 1290823,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_7.lua",
+  "size": 928,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_slots-1.png",
+  "size": 4584186,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_6.lua",
+  "size": 928,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage02-1.png",
+  "size": 232274,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_bolverk.lua",
+  "size": 16449,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-88.png",
+  "size": 2409,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-77.png",
+  "size": 2468,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-63.png",
+  "size": 56495,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_decals.lua",
+  "size": 38602,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_forgotten_treasures.lua",
+  "size": 16994,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage14_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-75.png",
+  "size": 2287,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-61.png",
+  "size": 60655,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage18_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-49.png",
+  "size": 48707,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_tutorial.lua",
+  "size": 2346,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map.lua",
+  "size": 132524,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage06_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map_animations.lua",
+  "size": 730653,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_4.lua",
+  "size": 792,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_5.lua",
+  "size": 657,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage17_bg-1.png",
+  "size": 1449055,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage16_bg-1.png",
+  "size": 1458443,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_common.lua",
+  "size": 739,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_mactans_malicia.lua",
+  "size": 71845,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-48.png",
+  "size": 60652,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-60.png",
+  "size": 57683,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-74.png",
+  "size": 2289,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage19-1.png",
+  "size": 670652,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_forgotten_treasures.lua",
+  "size": 307,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage22_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage04_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_forgotten_treasures-1.png",
+  "size": 82799,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage20-1.png",
+  "size": 2329359,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-58.png",
+  "size": 57804,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-70.png",
+  "size": 2290,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage16_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-64.png",
+  "size": 59476,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_hulking_rage-1.png",
+  "size": 869452,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_faustus.lua",
+  "size": 38609,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage08_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_bittering_rancor.lua",
+  "size": 20662,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_1.lua",
+  "size": 1061,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_8-1.png",
+  "size": 975507,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage20_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-65.png",
+  "size": 57084,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-71.png",
+  "size": 3012,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-59.png",
+  "size": 52207,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_veznan.lua",
+  "size": 55471,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_hulking_rage-1.png",
+  "size": 1859049,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_catha.lua",
+  "size": 80879,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_common-1.png",
+  "size": 54334,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage04-1.png",
+  "size": 907373,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage06-1.png",
+  "size": 4366882,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-67.png",
+  "size": 63002,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-73.png",
+  "size": 2204,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_xin.lua",
+  "size": 60765,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_2.lua",
+  "size": 1064,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_3.lua",
+  "size": 1198,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_arivan-1.png",
+  "size": 619753,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-72.png",
+  "size": 2613,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-66.png",
+  "size": 58694,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_faustus-1.png",
+  "size": 1368512,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage01_bg-1.png",
+  "size": 1516376,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage22-1.png",
+  "size": 2018719,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_portraits.lua",
+  "size": 22216,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage01-1.png",
+  "size": 126923,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/achievements-1.png",
+  "size": 991278,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_alleria.lua",
+  "size": 19960,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia_thumbs-1.png",
+  "size": 290371,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-15.png",
+  "size": 46776,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-29.png",
+  "size": 62924,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage14.lua",
+  "size": 3754,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_alleria-1.png",
+  "size": 220055,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_faerie_grove-1.png",
+  "size": 707796,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_decals-1.png",
+  "size": 926070,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage18-1.png",
+  "size": 1970516,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage12_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_lilith.lua",
+  "size": 59345,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage01.lua",
+  "size": 3847,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage15.lua",
+  "size": 197626,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-28.png",
+  "size": 65134,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-14.png",
+  "size": 46587,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_forgotten_treasures.lua",
+  "size": 62577,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_elven_woods-1.png",
+  "size": 2213667,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stages_ancient_metropolis-1.png",
+  "size": 993665,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_editor-1.png",
+  "size": 22909,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map_animations-1.png",
+  "size": 1015623,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_faerie_grove-1.png",
+  "size": 2041698,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_arivan.lua",
+  "size": 38451,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map_animations-3.png",
+  "size": 931308,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_catha-1.png",
+  "size": 1400606,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_durax-1.png",
+  "size": 1574285,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-16.png",
+  "size": 61675,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage03.lua",
+  "size": 90806,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_baby_malik.lua",
+  "size": 27032,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage17.lua",
+  "size": 12224,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_forgotten_treasures-1.png",
+  "size": 1606882,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_common.lua",
+  "size": 111160,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage16.lua",
+  "size": 2882,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage02.lua",
+  "size": 7628,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-17.png",
+  "size": 52397,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage07_bg-1.png",
+  "size": 1679205,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage06_bg-1.png",
+  "size": 1352575,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_splash.lua",
+  "size": 1886,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_map_animations-2.png",
+  "size": 2815736,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage03-1.png",
+  "size": 1280187,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_wilbur-1.png",
+  "size": 1620929,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg.lua",
+  "size": 2843,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_hulking_rage-1.png",
+  "size": 1849126,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_9-2.png",
+  "size": 52750,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage07-1.png",
+  "size": 249974,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-13.png",
+  "size": 57174,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage06.lua",
+  "size": 98103,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage12.lua",
+  "size": 9901,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_lynn.lua",
+  "size": 42241,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage13.lua",
+  "size": 76493,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_splash-1.png",
+  "size": 93314,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage07.lua",
+  "size": 8111,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-12.png",
+  "size": 46213,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_towers-2.png",
+  "size": 1498544,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/view_options-1.png",
+  "size": 167044,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-9.png",
+  "size": 50983,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-8.png",
+  "size": 103153,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/comic_9-1.png",
+  "size": 826622,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-38.png",
+  "size": 57089,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage21-1.png",
+  "size": 107551,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_hero_rag-1.png",
+  "size": 1477365,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-10.png",
+  "size": 46993,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage11.lua",
+  "size": 39130,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage05.lua",
+  "size": 10667,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_enemies_elven_woods.lua",
+  "size": 98255,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage05-1.png",
+  "size": 267310,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage04.lua",
+  "size": 18645,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage10_bg-1.png",
+  "size": 1738719,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage11_bg-1.png",
+  "size": 1692361,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage10.lua",
+  "size": 28127,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-11.png",
+  "size": 51629,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage02_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-39.png",
+  "size": 49879,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/view_options.lua",
+  "size": 3018,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_towers-1.png",
+  "size": 4657062,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_common.lua",
+  "size": 12030,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/screen_credits.lua",
+  "size": 891,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/loading_bittering_rancor.lua",
+  "size": 298,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_stage10_bg.lua",
+  "size": 264,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/gui_notifications_bg-9.png",
+  "size": 64794,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/go_editor.lua",
+  "size": 1433,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/ipad/encyclopedia-8.png",
+  "size": 48436,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia_thumbs.lua",
+  "size": 12541,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-5.png",
+  "size": 52557,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_7-2.png",
+  "size": 420326,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-4.png",
+  "size": 165067,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bolverk-1.png",
+  "size": 774841,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_ancient_metropolis.lua",
+  "size": 212754,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_shop_bg.lua",
+  "size": 408,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-12.png",
+  "size": 62036,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_elven_woods-1.png",
+  "size": 3560503,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_hulking_rage.lua",
+  "size": 288,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_mactans_malicia-2.png",
+  "size": 1028367,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-20.png",
+  "size": 85066,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-34.png",
+  "size": 80529,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage21.lua",
+  "size": 1763,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09-1.png",
+  "size": 1912592,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09.lua",
+  "size": 64994,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage15_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_hulking_rage.lua",
+  "size": 88397,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage08.lua",
+  "size": 78868,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage20.lua",
+  "size": 23935,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-35.png",
+  "size": 54415,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-21.png",
+  "size": 93013,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_5-1.png",
+  "size": 985028,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage07_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-13.png",
+  "size": 81635,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-5.png",
+  "size": 252376,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_bittering_rancor.lua",
+  "size": 23520,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-4.png",
+  "size": 58329,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage03_bg-1.png",
+  "size": 1919791,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage19_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage10-1.png",
+  "size": 468352,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage02_bg-1.png",
+  "size": 1849233,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-6.png",
+  "size": 61592,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-7.png",
+  "size": 190030,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bravebark-1.png",
+  "size": 2779258,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_7-1.png",
+  "size": 1332433,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_ancient_metropolis.lua",
+  "size": 169817,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-11.png",
+  "size": 109361,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage12-1.png",
+  "size": 280267,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_mactans_malicia-1.png",
+  "size": 2036633,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bruce-1.png",
+  "size": 1800238,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/achievements.lua",
+  "size": 31309,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-37.png",
+  "size": 77521,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-23.png",
+  "size": 94386,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage22.lua",
+  "size": 35919,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09-2.png",
+  "size": 2705539,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_settings-1.png",
+  "size": 160563,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09_bg-1.png",
+  "size": 2013739,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage08_bg-1.png",
+  "size": 2244961,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09-3.png",
+  "size": 680172,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-22.png",
+  "size": 102051,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-36.png",
+  "size": 73089,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_5-2.png",
+  "size": 528009,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-10.png",
+  "size": 92713,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia.lua",
+  "size": 16607,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-6.png",
+  "size": 231048,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-7.png",
+  "size": 48382,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-2.png",
+  "size": 129062,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-3.png",
+  "size": 69819,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_rag.lua",
+  "size": 65031,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bravebark.lua",
+  "size": 70879,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_settings.lua",
+  "size": 268,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-14.png",
+  "size": 75193,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-32.png",
+  "size": 62799,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-26.png",
+  "size": 73860,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_veznan-1.png",
+  "size": 2112545,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_shop.lua",
+  "size": 7424,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_common-1.png",
+  "size": 2621239,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_hulking_rage.lua",
+  "size": 59504,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage14_bg-1.png",
+  "size": 2902463,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage15_bg-1.png",
+  "size": 2338906,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage16-1.png",
+  "size": 396940,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_ancient_metropolis.lua",
+  "size": 306,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-27.png",
+  "size": 70217,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-33.png",
+  "size": 101341,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_3-1.png",
+  "size": 1064535,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_ancient_metropolis-1.png",
+  "size": 3598206,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-15.png",
+  "size": 99413,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_ancient_metropolis-1.png",
+  "size": 5056902,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_elven_woods.lua",
+  "size": 285,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_regson-1.png",
+  "size": 980256,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-2.png",
+  "size": 48694,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-3.png",
+  "size": 109905,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_elves_denas-1.png",
+  "size": 1868614,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-1.png",
+  "size": 75624,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage21_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-19.png",
+  "size": 76365,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-25.png",
+  "size": 88673,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage14-1.png",
+  "size": 180757,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-31.png",
+  "size": 59241,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage18.lua",
+  "size": 35122,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_1-1.png",
+  "size": 2014695,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_common-2.png",
+  "size": 2154452,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage20_bg-1.png",
+  "size": 2009496,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage21_bg-1.png",
+  "size": 1853258,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_elves_archer-1.png",
+  "size": 511959,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage19.lua",
+  "size": 27792,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-30.png",
+  "size": 88221,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-24.png",
+  "size": 89156,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_3-2.png",
+  "size": 478704,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-18.png",
+  "size": 64341,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage05_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-1.png",
+  "size": 39810,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage17_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bruce.lua",
+  "size": 28622,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_durax.lua",
+  "size": 60459,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map-5.png",
+  "size": 357929,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_bittering_rancor-1.png",
+  "size": 1896169,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-43.png",
+  "size": 101203,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-57.png",
+  "size": 65652,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage13-1.png",
+  "size": 2552111,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-80.png",
+  "size": 4126,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_common-1.png",
+  "size": 1562338,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-94.png",
+  "size": 4110,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_6-1.png",
+  "size": 888694,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_shop_bg-2.png",
+  "size": 580778,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_elves_denas.lua",
+  "size": 51688,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-95.png",
+  "size": 2873,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-81.png",
+  "size": 4107,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_4-2.png",
+  "size": 560351,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage13_bg-1.png",
+  "size": 2427994,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage12_bg-1.png",
+  "size": 2379081,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-56.png",
+  "size": 59794,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-42.png",
+  "size": 98617,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_xin-1.png",
+  "size": 2884207,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_common.lua",
+  "size": 107418,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map-4.png",
+  "size": 4654381,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage13_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage08-1.png",
+  "size": 1102528,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-54.png",
+  "size": 64436,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-40.png",
+  "size": 66546,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-68.png",
+  "size": 76357,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_bittering_rancor-1.png",
+  "size": 1269719,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-83.png",
+  "size": 3887,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_forgotten_treasures-1.png",
+  "size": 3089189,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_6-2.png",
+  "size": 429694,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage01_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_faerie_grove.lua",
+  "size": 112035,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_shop_bg-1.png",
+  "size": 168879,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_lilith-1.png",
+  "size": 2732493,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage11-1.png",
+  "size": 3961904,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_elven_woods.lua",
+  "size": 71911,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-82.png",
+  "size": 3636,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-96.png",
+  "size": 2917,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-69.png",
+  "size": 5097,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_4-1.png",
+  "size": 874311,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-41.png",
+  "size": 70868,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-55.png",
+  "size": 61526,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage19_bg-1.png",
+  "size": 1979074,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage18_bg-1.png",
+  "size": 1677003,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_lynn-1.png",
+  "size": 2343301,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_faerie_grove.lua",
+  "size": 288,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage03_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_common-1.png",
+  "size": 4188405,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map-3.png",
+  "size": 3125753,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage15-1.png",
+  "size": 4092874,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage11_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-79.png",
+  "size": 3683,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-51.png",
+  "size": 56461,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-45.png",
+  "size": 83353,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-92.png",
+  "size": 3613,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-86.png",
+  "size": 4179,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_baby_malik-1.png",
+  "size": 1442096,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_8.lua",
+  "size": 794,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_9.lua",
+  "size": 927,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-87.png",
+  "size": 4040,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-93.png",
+  "size": 3875,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-44.png",
+  "size": 92924,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-50.png",
+  "size": 61309,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-78.png",
+  "size": 3969,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_wilbur.lua",
+  "size": 57649,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage04_bg-1.png",
+  "size": 1664898,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_2-2.png",
+  "size": 597639,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage05_bg-1.png",
+  "size": 1556588,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map-2.png",
+  "size": 4545489,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_bittering_rancor-1.png",
+  "size": 3440029,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_towers.lua",
+  "size": 574023,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_phoenix.lua",
+  "size": 32405,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage15-2.png",
+  "size": 1230783,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_slots.lua",
+  "size": 52112,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-46.png",
+  "size": 91244,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_elven_woods-1.png",
+  "size": 926006,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-52.png",
+  "size": 60571,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-85.png",
+  "size": 4136,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-91.png",
+  "size": 3329,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_shop-1.png",
+  "size": 724570,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_elves_archer.lua",
+  "size": 17238,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_portraits-1.png",
+  "size": 1281291,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_faerie_grove.lua",
+  "size": 133904,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-90.png",
+  "size": 3577,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-84.png",
+  "size": 3834,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-53.png",
+  "size": 50318,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-47.png",
+  "size": 80466,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_2-1.png",
+  "size": 1029741,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_phoenix-1.png",
+  "size": 2196758,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map-1.png",
+  "size": 4673307,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_regson.lua",
+  "size": 27084,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage17-1.png",
+  "size": 233819,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_credits-1.png",
+  "size": 403384,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_tutorial-1.png",
+  "size": 528493,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_faerie_grove-1.png",
+  "size": 4818807,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-62.png",
+  "size": 63511,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-76.png",
+  "size": 3606,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-89.png",
+  "size": 3706,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage22_bg-1.png",
+  "size": 1804809,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_7.lua",
+  "size": 928,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_slots-1.png",
+  "size": 4813333,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_6.lua",
+  "size": 928,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage02-1.png",
+  "size": 395417,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_bolverk.lua",
+  "size": 16498,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-88.png",
+  "size": 4182,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-77.png",
+  "size": 3512,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-63.png",
+  "size": 66669,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_decals.lua",
+  "size": 38878,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_forgotten_treasures.lua",
+  "size": 16999,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_tutorial-2.png",
+  "size": 216032,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage14_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-75.png",
+  "size": 3546,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-61.png",
+  "size": 69122,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage18_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-49.png",
+  "size": 55535,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_tutorial.lua",
+  "size": 2347,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map.lua",
+  "size": 130994,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage06_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations.lua",
+  "size": 731096,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_4.lua",
+  "size": 793,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_slots-2.png",
+  "size": 2650468,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_5.lua",
+  "size": 657,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage17_bg-1.png",
+  "size": 1858183,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage16_bg-1.png",
+  "size": 1800603,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_common.lua",
+  "size": 743,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_mactans_malicia.lua",
+  "size": 72025,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-48.png",
+  "size": 86474,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-60.png",
+  "size": 65182,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-74.png",
+  "size": 4276,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage19-1.png",
+  "size": 1232415,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_forgotten_treasures.lua",
+  "size": 309,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage22_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage04_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_forgotten_treasures-1.png",
+  "size": 157584,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage20-1.png",
+  "size": 3677569,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage06-2.png",
+  "size": 3130745,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-58.png",
+  "size": 65167,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-70.png",
+  "size": 4491,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage16_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-64.png",
+  "size": 70643,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_hulking_rage-1.png",
+  "size": 1586272,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_faustus.lua",
+  "size": 38817,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage08_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_bittering_rancor.lua",
+  "size": 20845,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_1.lua",
+  "size": 1061,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_8-1.png",
+  "size": 1736216,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage20_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-65.png",
+  "size": 63029,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-71.png",
+  "size": 4029,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-59.png",
+  "size": 58084,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_veznan.lua",
+  "size": 52047,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_hulking_rage-1.png",
+  "size": 3007287,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_catha.lua",
+  "size": 81289,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_common-1.png",
+  "size": 43731,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage04-1.png",
+  "size": 1424398,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage06-1.png",
+  "size": 4577747,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-67.png",
+  "size": 77724,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-73.png",
+  "size": 4299,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_xin.lua",
+  "size": 61139,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_2.lua",
+  "size": 1063,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_3.lua",
+  "size": 1199,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_arivan-1.png",
+  "size": 1061557,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-72.png",
+  "size": 3674,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-66.png",
+  "size": 65828,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_faustus-1.png",
+  "size": 2374774,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage01_bg-1.png",
+  "size": 1872278,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage22-1.png",
+  "size": 3115555,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_portraits.lua",
+  "size": 22269,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage01-1.png",
+  "size": 202916,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/achievements-1.png",
+  "size": 1569599,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_alleria.lua",
+  "size": 19991,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia_thumbs-1.png",
+  "size": 470854,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-15.png",
+  "size": 54566,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-29.png",
+  "size": 87205,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage14.lua",
+  "size": 3762,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_alleria-1.png",
+  "size": 365626,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_faerie_grove-1.png",
+  "size": 1166522,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_decals-1.png",
+  "size": 1620092,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage18-1.png",
+  "size": 3418612,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage12_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_lilith.lua",
+  "size": 59402,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage01.lua",
+  "size": 3849,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage15.lua",
+  "size": 196092,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-28.png",
+  "size": 89850,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-14.png",
+  "size": 56108,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_forgotten_treasures.lua",
+  "size": 62669,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_elven_woods-1.png",
+  "size": 3827331,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stages_ancient_metropolis-1.png",
+  "size": 1725927,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations-1.png",
+  "size": 629079,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_faerie_grove-1.png",
+  "size": 3355438,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_arivan.lua",
+  "size": 38485,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations-3.png",
+  "size": 2098376,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_catha-1.png",
+  "size": 2594997,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_durax-1.png",
+  "size": 2677639,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-16.png",
+  "size": 79904,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage03.lua",
+  "size": 91196,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_baby_malik.lua",
+  "size": 27161,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage17.lua",
+  "size": 12289,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_forgotten_treasures-1.png",
+  "size": 2655636,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_common.lua",
+  "size": 111523,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage16.lua",
+  "size": 2916,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage02.lua",
+  "size": 7683,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-17.png",
+  "size": 75570,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage07_bg-1.png",
+  "size": 2372663,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage06_bg-1.png",
+  "size": 1634258,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_splash.lua",
+  "size": 1895,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations-2.png",
+  "size": 1179732,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage03-1.png",
+  "size": 2184413,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_wilbur-1.png",
+  "size": 2709095,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg.lua",
+  "size": 2845,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_hulking_rage-1.png",
+  "size": 3138024,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage09_land_covers-1.png",
+  "size": 163608,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_9-2.png",
+  "size": 249016,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_towers-3.png",
+  "size": 1184368,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage07-1.png",
+  "size": 406977,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-13.png",
+  "size": 71912,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage06.lua",
+  "size": 98518,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage12.lua",
+  "size": 9909,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_lynn.lua",
+  "size": 42473,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage13.lua",
+  "size": 76794,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_splash-1.png",
+  "size": 103440,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage07.lua",
+  "size": 8196,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-12.png",
+  "size": 54767,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_towers-2.png",
+  "size": 5168035,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/view_options-1.png",
+  "size": 202037,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-9.png",
+  "size": 67551,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-8.png",
+  "size": 117413,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/comic_9-1.png",
+  "size": 1203884,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations-5.png",
+  "size": 154981,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-38.png",
+  "size": 78763,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage21-1.png",
+  "size": 142022,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_hero_rag-1.png",
+  "size": 2377350,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-10.png",
+  "size": 57017,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage11.lua",
+  "size": 108452,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage05.lua",
+  "size": 10721,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_enemies_elven_woods.lua",
+  "size": 98564,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage05-1.png",
+  "size": 432485,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage04.lua",
+  "size": 18878,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage10_bg-1.png",
+  "size": 2412142,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage11_bg-1.png",
+  "size": 2316496,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage10.lua",
+  "size": 28217,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-11.png",
+  "size": 66167,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage02_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-39.png",
+  "size": 65115,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/view_options.lua",
+  "size": 3029,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_towers-1.png",
+  "size": 4261618,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_map_animations-4.png",
+  "size": 2097470,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_common.lua",
+  "size": 11837,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/screen_credits.lua",
+  "size": 892,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/loading_bittering_rancor.lua",
+  "size": 300,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/go_stage10_bg.lua",
+  "size": 266,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/gui_notifications_bg-9.png",
+  "size": 99725,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/images/fullhd/encyclopedia-8.png",
+  "size": 56650,
+  "type": "png"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/settings.lua",
+  "size": 482,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/extra.lua",
+  "size": 15991,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bruce_confirm_03d.ogg",
+  "size": 21320,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/MusicSuspense.mp3",
+  "size": 268965,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/VarlBerserker_confirm-04a.ogg",
+  "size": 24159,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_lightningbolt_v2.ogg",
+  "size": 82070,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_goldenbow_instakill_v2_conchime.ogg",
+  "size": 36857,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lilith_death-01a[wet].ogg",
+  "size": 23347,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_cocoexplosion[explofuerte].ogg",
+  "size": 29829,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_lynn-fatesealed.ogg",
+  "size": 98874,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Catha_Confirm-04d.ogg",
+  "size": 19484,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_GUIMouseOverTowerIcon.ogg",
+  "size": 27721,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_liquidfire_v2_sinchimes.ogg",
+  "size": 21927,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_forestkeeper_eeriegarden_SINPOPS.ogg",
+  "size": 25820,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_waterfall_strong.ogg",
+  "size": 14375,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_NotificationOpen.ogg",
+  "size": 33925,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_path_explosion.ogg",
+  "size": 36383,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gyro_confirm-03c.ogg",
+  "size": 25382,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_wrong_v2.ogg",
+  "size": 61768,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_grimdevourer_consume.ogg",
+  "size": 70908,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_bladesinger_bladedance_v2-op2.ogg",
+  "size": 38587,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_screecher-death.ogg",
+  "size": 19568,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_avenger_lastservice_v2[op2].ogg",
+  "size": 61254,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_WolfAttack.ogg",
+  "size": 47336,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_NotificationSecondLevel.ogg",
+  "size": 9140,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PrinceDenas-confirm_01a.ogg",
+  "size": 24403,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_v2[spikesbajos].ogg",
+  "size": 12224,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_wildmagus_doomcast_v2.ogg",
+  "size": 63389,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Viking_Transform.ogg",
+  "size": 9867,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_prebattle2[master_25-08].mp3",
+  "size": 805662,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reg'son-confirm_01a.ogg",
+  "size": 16663,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Durax_02a[wet].ogg",
+  "size": 24707,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairysoul_v1.ogg",
+  "size": 74205,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_pandamonium-hit1_v1.ogg",
+  "size": 5941,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hammertime[op1_12bits].ogg",
+  "size": 58992,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lilith_confirm-02d[wet].ogg",
+  "size": 19296,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_attack[concasquillos].ogg",
+  "size": 32589,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_peekaboo_v2[op2].ogg",
+  "size": 22326,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-handofmidas-active[op3]C.ogg",
+  "size": 154103,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_prebattle2[master_30-09].mp3",
+  "size": 894882,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_ultimate.ogg",
+  "size": 21249,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_forestkeeper_circleofhealing-CONGAITA_HI.ogg",
+  "size": 64893,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GoldenBows_Ready[2]-01d.ogg",
+  "size": 22206,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_barezad_firebreath_v2[loop].ogg",
+  "size": 62546,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilson[op1].ogg",
+  "size": 35636,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_blazingoffspring_hit_v2.ogg",
+  "size": 31491,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_battle1[master_03-11].mp3",
+  "size": 799487,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_gryphon_land_v3[op1].ogg",
+  "size": 36804,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_stonedruid_boulderexplosion.ogg",
+  "size": 44695,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_whitetree-tap.ogg",
+  "size": 50452,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_twlightinvasionambience-3.ogg",
+  "size": 157526,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Barrack_Taunt[2]-03c.ogg",
+  "size": 14335,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ForestProtector_Ancient[2]-01c.ogg",
+  "size": 21314,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnoll_outofbush_modif.ogg",
+  "size": 21777,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_teleport-in_v1.ogg",
+  "size": 11162,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_wildmagus_boltcast_v2-op1.ogg",
+  "size": 30934,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_sorcapprentice_hat[sinexplo].ogg",
+  "size": 37477,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_ArrowHit2.ogg",
+  "size": 28359,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_ArrowHit3.ogg",
+  "size": 23220,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_goldenbow_flarehit_v2.5.ogg",
+  "size": 38403,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_fierynutthrow.ogg",
+  "size": 52681,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bean.ogg",
+  "size": 17242,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Faustus-death_01e2.ogg",
+  "size": 18298,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faerydragon_buydragon[op1].ogg",
+  "size": 55789,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Female-Elven-Archer-04b.ogg",
+  "size": 44153,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_battle2[master_30-10].ogg",
+  "size": 2068256,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bruce_confirm[2]-01b.ogg",
+  "size": 17564,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_twlightinvasionambience-2.ogg",
+  "size": 124459,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_TowerBuilding.ogg",
+  "size": 22157,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_enervation_v2_[op1].ogg",
+  "size": 16200,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Drow_02c.ogg",
+  "size": 16041,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyGoblinDead.ogg",
+  "size": 13361,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-tailwhip.ogg",
+  "size": 29624,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_fireballshot_v2.ogg",
+  "size": 19018,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Kingsguard_01d.ogg",
+  "size": 16361,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_passby[sinsublows]_B.ogg",
+  "size": 106278,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/inapp_gems.ogg",
+  "size": 23911,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_creep_death[op1].ogg",
+  "size": 38299,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_arcanenova_v1.ogg",
+  "size": 15341,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_daringstrikehit_v1.ogg",
+  "size": 8845,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Arivan_Confirm-01b.ogg",
+  "size": 20235,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_bombsmarch[op1].ogg",
+  "size": 113151,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Awok_01b.ogg",
+  "size": 25335,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_regson_slash_v1.ogg",
+  "size": 10239,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_servant-death[op2].ogg",
+  "size": 13801,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_dronesattack[metralla]_cut.ogg",
+  "size": 19114,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_lethalprism_shot_v2.ogg",
+  "size": 22415,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_AchievementWin.ogg",
+  "size": 37021,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_whitetree-activate.ogg",
+  "size": 56586,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Aleria_wildcat_hit.ogg",
+  "size": 7785,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PapaTree_Fiery[2]-01d.ogg",
+  "size": 17280,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/RazzAndRags_04c.ogg",
+  "size": 16882,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_death.ogg",
+  "size": 34989,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_TowerSell.ogg",
+  "size": 33672,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_GUIOpenTowerMenu.ogg",
+  "size": 27006,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemySkeletonBreak2.ogg",
+  "size": 22749,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ArcaneArcher_BurstArrow-01a.ogg",
+  "size": 18688,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairydust.ogg",
+  "size": 93399,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_WaveIncoming.ogg",
+  "size": 113373,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_battle1.ogg",
+  "size": 2002921,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Barrack_Taunt[2]-02c.ogg",
+  "size": 16632,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_morph_v1.ogg",
+  "size": 138609,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_ambience_v4[op2_consnors].ogg",
+  "size": 28953,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_guardianlions[loop-v2-op1].ogg",
+  "size": 124717,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyHealing.ogg",
+  "size": 41206,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_wildmagus_doomexplotion_v3-op1.ogg",
+  "size": 64818,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_death[op7].ogg",
+  "size": 20224,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_killray[conprecarga].ogg",
+  "size": 33385,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_WolfAttack2.ogg",
+  "size": 37805,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bravebark-confirm_01c.ogg",
+  "size": 26614,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Drow_03b.ogg",
+  "size": 15367,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_barezad_firebreath_v2[starter].ogg",
+  "size": 40267,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Archers_Taunt-01a.ogg",
+  "size": 18246,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_pandamonium_[op1].ogg",
+  "size": 15821,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystallizedgnoll_v2.ogg",
+  "size": 51873,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_GUIButtonCommon.ogg",
+  "size": 12810,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_lynn-weakeningcurse[sincrackle].ogg",
+  "size": 76043,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_faustus_killray_v3.ogg",
+  "size": 16320,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_basicwizard_doublebolt-op1.ogg",
+  "size": 42029,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/archmage_attack.ogg",
+  "size": 36639,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_beardeath_v3_op1-condesplome.ogg",
+  "size": 38789,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_leaves.ogg",
+  "size": 27794,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_unstablecrystal_healing_modif.ogg",
+  "size": 60360,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gyro_confirm-02c.ogg",
+  "size": 27683,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_submerge_B.ogg",
+  "size": 52050,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/mermaid.ogg",
+  "size": 38873,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_rockthrow_v2-op2-medio.ogg",
+  "size": 33123,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_highmage_preload_and_travel.ogg",
+  "size": 38846,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_castspellwithlaughter.ogg",
+  "size": 58850,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_RallyPointPlaced.ogg",
+  "size": 22578,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gemcrystalbreak[solo]_v1.ogg",
+  "size": 25001,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_raggified_transform[op2].ogg",
+  "size": 22277,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Veznan-confirm_02f.ogg",
+  "size": 23969,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_eggexplosion.ogg",
+  "size": 43378,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Eridan_confirmextra-01a.ogg",
+  "size": 15087,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_blazingoffspring_shot[op1].ogg",
+  "size": 76951,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_gryphon_takeoff_v2.ogg",
+  "size": 38318,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_elvenhighmage_sentinelactivate.ogg",
+  "size": 65718,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_basicattack.ogg",
+  "size": 36290,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_desintegrate_v2[comic].ogg",
+  "size": 36231,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_teleport-out_v1.ogg",
+  "size": 15387,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_castspell.ogg",
+  "size": 59889,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bram_fistcharge.ogg",
+  "size": 50307,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ainyl_shield.ogg",
+  "size": 55647,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_prebattle1[master_01-11].ogg",
+  "size": 1351336,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reg'son-death_01c.ogg",
+  "size": 16209,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_NotificationClose.ogg",
+  "size": 24770,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_rootspikes_v1.ogg",
+  "size": 15197,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_unstablecrystal_crystallize[op1].ogg",
+  "size": 33468,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_wardrums[op1].ogg",
+  "size": 92836,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ForestProtector_Ready[2]-01c.ogg",
+  "size": 19943,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_finalboss_jump.ogg",
+  "size": 17230,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ForestProtector_Circle[2]-01g.ogg",
+  "size": 20611,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_comet-end_v3.ogg",
+  "size": 52496,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_poison_v2[confrasco].ogg",
+  "size": 65547,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/logo_shimmer.ogg",
+  "size": 21199,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_branchball_v1[op1].ogg",
+  "size": 16903,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Female-Elven-Archer-02c.ogg",
+  "size": 76032,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Catha_Confirm-03c.ogg",
+  "size": 18005,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_darkspitter_death[op2-sincaida].ogg",
+  "size": 20321,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Motumbo_hit.ogg",
+  "size": 5519,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_comet-start_v3[sinfuego].ogg",
+  "size": 54786,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PrinceDenas-death_01a.ogg",
+  "size": 20390,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_prebattle1[master_30-09].mp3",
+  "size": 1081698,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Faustus-confirm_03a2.ogg",
+  "size": 19285,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GalhadriansBastion-02c.ogg",
+  "size": 16029,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_calldrones.ogg",
+  "size": 86791,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcement-Death_c.ogg",
+  "size": 14536,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_fireballhit_v3.ogg",
+  "size": 24901,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_fireloop_v1.ogg",
+  "size": 13041,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_shadowchampion_death.ogg",
+  "size": 78858,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_stonedruid_boulderthrow-op2.ogg",
+  "size": 24997,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_griveousbites.ogg",
+  "size": 35147,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_witchdeath_v1[op2].ogg",
+  "size": 41031,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Durax_03a[wet].ogg",
+  "size": 31041,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_creditos[master].ogg",
+  "size": 2328152,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/DruidHenge_Sylvan[2]-01b.ogg",
+  "size": 25558,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Eridan_Death-01a.ogg",
+  "size": 9280,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_georgefall_v1.ogg",
+  "size": 36043,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bruce_death[2]-01g.ogg",
+  "size": 12256,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_branchesandfaery1.ogg",
+  "size": 77230,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_basicbarracks_fight.ogg",
+  "size": 208731,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcements_02a.ogg",
+  "size": 30730,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/VarlBerserker_confirm-02a.ogg",
+  "size": 29875,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_prebattle2[master_25-08].ogg",
+  "size": 1346497,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_battle2[master_03-09].mp3",
+  "size": 918651,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_winds[op1].ogg",
+  "size": 53084,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faerydragon_attack[solocristalizacion].ogg",
+  "size": 48856,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_windandowls1.ogg",
+  "size": 117448,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bladesinger_SwirlingEdge[2]-01a.ogg",
+  "size": 14715,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_mactans_webspin[towers].ogg",
+  "size": 125388,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_creep_doublesword[op1].ogg",
+  "size": 32612,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hulkingrage_mining_v2[op2].ogg",
+  "size": 119259,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr_yellow_submarine_custom.ogg",
+  "size": 17649,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SoldiersFighting-05.ogg",
+  "size": 20727,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_demonfireball_hit_v3.1.ogg",
+  "size": 9358,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_GUIBuyUpgrade.ogg",
+  "size": 51128,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcement-01a.ogg",
+  "size": 17524,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_blue_v2.ogg",
+  "size": 52833,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SoldiersFighting-04.ogg",
+  "size": 27748,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_bossfight_prebattle_v2[master_03-11].ogg",
+  "size": 519015,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Xin-confirm_01c.ogg",
+  "size": 23305,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Barrack_Taunt[2]-04e.ogg",
+  "size": 13337,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-shadowstorm[cast].ogg",
+  "size": 57393,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_armblade.ogg",
+  "size": 49423,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_goldenbow_arrowshot.ogg",
+  "size": 8266,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faerydragon_sfx_attack[op2][soloattack]_B.ogg",
+  "size": 20570,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Eridan_Confirm-03b.ogg",
+  "size": 16029,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ashbite_confirm_v1[op1].ogg",
+  "size": 35354,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_victory[master_03-11].mp3",
+  "size": 309016,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_princedenas_mighty_v3[convoz_op3].ogg",
+  "size": 13667,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_achievement_mario.ogg",
+  "size": 19849,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_gryphon_shot_v2[op3].ogg",
+  "size": 49934,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_prebattle1_[master_25-08].ogg",
+  "size": 1212719,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bean_loop.ogg",
+  "size": 30643,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_shadowspawn_spawn[op2].ogg",
+  "size": 47428,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Mage_Taunt-03d.ogg",
+  "size": 14460,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_smokespit.ogg",
+  "size": 116875,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_branchesandfaery2.ogg",
+  "size": 41394,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_angrygnome_objectspawn[op2].ogg",
+  "size": 40469,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_ultimate[meteors-impact-op1_singlehit].ogg",
+  "size": 33605,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/krf_sfx_darkspitter_spit.ogg",
+  "size": 24435,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_bgmusic_map[master_25-08].mp3",
+  "size": 937416,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_spiderout.ogg",
+  "size": 47636,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_ArrowRelease3.ogg",
+  "size": 14617,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_wagonexplosion.ogg",
+  "size": 23724,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bram_sopapo[conwhoosh].ogg",
+  "size": 20122,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/inapp_gnome.ogg",
+  "size": 53910,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp_hornofheroism[op2].ogg",
+  "size": 44640,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Arivan_Confirm04-01a.ogg",
+  "size": 20560,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Phoenix2-death_01b.ogg",
+  "size": 20820,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_drizzt.ogg",
+  "size": 109007,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Female-Elven-Archer-03a.ogg",
+  "size": 68232,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Female-Elven-Archer-Death_a.ogg",
+  "size": 32107,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairyfury[hit]_v2.ogg",
+  "size": 72088,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_princedenas_celebrity_v1[severalshots].ogg",
+  "size": 18331,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Catha_Confirm-02a.ogg",
+  "size": 22382,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_clobber_v2.ogg",
+  "size": 44655,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/RazzAndRags_03d.ogg",
+  "size": 17548,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_regson_bladescast_v3[conenergia].ogg",
+  "size": 10581,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gyro_confirm-04b.ogg",
+  "size": 20381,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_green_v2.ogg",
+  "size": 52703,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_evoker_heal[sinshaker].ogg",
+  "size": 35230,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SoldiersFighting-01.ogg",
+  "size": 15405,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_howl[op1_singrowl].ogg",
+  "size": 38486,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_kamihare[sinpops].ogg",
+  "size": 34562,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-death[conriser].ogg",
+  "size": 88958,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_grimdevourer_death.ogg",
+  "size": 41103,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_guardianlions-hit[loop-end].ogg",
+  "size": 28630,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_ArrowRelease2.ogg",
+  "size": 12330,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_regson_vindicator_v3.ogg",
+  "size": 15662,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcements_03c.ogg",
+  "size": 38325,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lynn_confirm_01a.ogg",
+  "size": 19452,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_bossfight[master].mp3",
+  "size": 870140,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/VarlBerserker_confirm-03c.ogg",
+  "size": 18643,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_shardspear[throw].ogg",
+  "size": 29279,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_death_v2[larga].ogg",
+  "size": 315694,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_reaperharvest.ogg",
+  "size": 71328,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_battle1_v4[master_03-11].ogg",
+  "size": 1383387,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_movement[loop_op1].ogg",
+  "size": 54334,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_fireballsummon[op2].ogg",
+  "size": 37035,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_elemental_death.ogg",
+  "size": 27593,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_elemental_areaattack.ogg",
+  "size": 26982,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Phoenix2-death_01a.ogg",
+  "size": 22917,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GoldenBows_Crimson-01b.ogg",
+  "size": 21452,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gnome_01d.ogg",
+  "size": 44945,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Veznan-confirm_04_custom_ec.ogg",
+  "size": 23795,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_crystallites.ogg",
+  "size": 42516,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_lynn-hexfury[op3].ogg",
+  "size": 46815,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SoldiersFighting-03.ogg",
+  "size": 28437,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/StoneDruid_Taunt-01b.ogg",
+  "size": 17296,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_iceboltshot_v2[contono].ogg",
+  "size": 63319,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_battle2[master_25-08].ogg",
+  "size": 1608294,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_maliciazealot_summon[wololo_op1].ogg",
+  "size": 117819,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/RazzAndRags_02b.ogg",
+  "size": 18355,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SoldiersFighting-02.ogg",
+  "size": 19659,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_BattleAxe.ogg",
+  "size": 15718,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_normalattack_v1.ogg",
+  "size": 13819,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-shadowstorm[impact].ogg",
+  "size": 48136,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Motumbo_charge_special.ogg",
+  "size": 10164,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_tele-out_v3.ogg",
+  "size": 7121,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_maintheme[master_25-08].mp3",
+  "size": 782292,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_yellow_v2.ogg",
+  "size": 52354,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_wagonloop[ending].ogg",
+  "size": 19060,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_fall_v2.ogg",
+  "size": 27784,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_gemattack_v1B.ogg",
+  "size": 33407,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/WildMagus_Silence-01c.ogg",
+  "size": 17732,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_bouldersummon.ogg",
+  "size": 31322,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_death[op1].ogg",
+  "size": 13390,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ForestProtector_Eerie[2]-01a.ogg",
+  "size": 19401,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/hero_dragon_spit.ogg",
+  "size": 20657,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_mactans_touch.ogg",
+  "size": 20105,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_barezad_firebreath_v2[end].ogg",
+  "size": 46048,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_demondeath_v3.ogg",
+  "size": 11609,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_gryphon_shot_v2[end].ogg",
+  "size": 30631,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_MageShot.ogg",
+  "size": 24451,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_serpentsattack.ogg",
+  "size": 96296,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lynn_confirm_02c.ogg",
+  "size": 17796,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_HumanDead4.ogg",
+  "size": 16958,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_FireballHit.ogg",
+  "size": 45753,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_LooseLife.ogg",
+  "size": 32993,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_goldenbow_instakillarrowshot_v2.ogg",
+  "size": 75984,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_scream[op4_pocodelay].ogg",
+  "size": 76977,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Catha_Death-01c.ogg",
+  "size": 13696,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_infernalwheel.ogg",
+  "size": 75337,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ainyl_teleport[op2].ogg",
+  "size": 81101,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcement-03c.ogg",
+  "size": 13022,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_NextWaveReady.ogg",
+  "size": 29455,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_inspire_v3[op1].ogg",
+  "size": 12911,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/hero_dragon_fireball_explode.ogg",
+  "size": 26115,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/StoneDruid_Taunt-02b.ogg",
+  "size": 22006,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_plant_ready_conchime.ogg",
+  "size": 25477,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-heal.ogg",
+  "size": 154777,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_drizzt_growl.ogg",
+  "size": 41742,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_bearsummon_v3-op2.ogg",
+  "size": 73512,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_highmage_timecastend.ogg",
+  "size": 24249,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/RazzAndRags_01b.ogg",
+  "size": 14921,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/HighMage_Ready-01a.ogg",
+  "size": 16115,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/HighMage_ArcaneSentinel-01c.ogg",
+  "size": 17443,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_shardspear[impact].ogg",
+  "size": 20186,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Catha_Confirm-01c.ogg",
+  "size": 25528,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_witch_touch[op1].ogg",
+  "size": 18812,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bladesinger_Ready[2]-01b.ogg",
+  "size": 11978,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Xin-confirm_03a.ogg",
+  "size": 16480,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_polehit1_v3[conhoo].ogg",
+  "size": 6424,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_ringoffire_spawn[op2].ogg",
+  "size": 39967,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_wardrums[op3].ogg",
+  "size": 118660,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_godieth_bloodpool.ogg",
+  "size": 97586,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_NotificationPaperOver.ogg",
+  "size": 15031,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_soulburn_v8[sinimpacto].ogg",
+  "size": 13237,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_plant_magicmissile.ogg",
+  "size": 32857,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lynn_death_01b.ogg",
+  "size": 18245,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_stonesummon_v2.ogg",
+  "size": 38584,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_tele-in_v3[op1].ogg",
+  "size": 7811,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_ultimate[darkangels-hit].ogg",
+  "size": 41047,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ArcaneArcher_Ready-01a.ogg",
+  "size": 20323,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-teleportgem_v2[enemiesin].ogg",
+  "size": 13241,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_polymorf[conchimes].ogg",
+  "size": 46471,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Durax_04c[wet].ogg",
+  "size": 24687,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bravebark-death_01a.ogg",
+  "size": 23747,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SpellRefresh.ogg",
+  "size": 14867,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_eridan_nimblefencing.ogg",
+  "size": 39970,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_demonfireball_throw_v3.ogg",
+  "size": 9786,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_soulreaper[op1].ogg",
+  "size": 66592,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/hero_dragon_death.ogg",
+  "size": 26820,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_eridan_doublestrike_v2[mid].ogg",
+  "size": 56967,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_QuestFailed.ogg",
+  "size": 52905,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/hero_dragon_flamethrower.ogg",
+  "size": 31988,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_battle1.mp3",
+  "size": 841742,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_wildmagus_doomloop_v2-op1.ogg",
+  "size": 65549,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_movement[loop_end].ogg",
+  "size": 41505,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_arachnomancer_spiderspawn[op1].ogg",
+  "size": 17643,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidereggs[huevo+aranias].ogg",
+  "size": 36505,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalbuff.ogg",
+  "size": 51802,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Mage_Taunt-01e.ogg",
+  "size": 13660,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_range_shoot_v1.ogg",
+  "size": 20340,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lynn_confirm_03a.ogg",
+  "size": 17548,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/VarlBerserker_confirm-01a.ogg",
+  "size": 24284,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_dripping[conbichos]-AMB.ogg",
+  "size": 122154,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bravebark-confirm_04d.ogg",
+  "size": 35729,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/HighMage_Timelapse-01c.ogg",
+  "size": 16733,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-rangedattack[op2].ogg",
+  "size": 32949,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_prebattle2[master_30-09].ogg",
+  "size": 1516574,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_HumanDead2.ogg",
+  "size": 21171,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_scourger_death.ogg",
+  "size": 12960,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_battle1[master_03-11].ogg",
+  "size": 1846382,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_pandamonium-hit2_v1.ogg",
+  "size": 6390,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_screecher-scream[op5].ogg",
+  "size": 51415,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Aleria_special_arrow.ogg",
+  "size": 10104,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_winds[op2].ogg",
+  "size": 51234,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Xin-confirm_02b.ogg",
+  "size": 16660,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/ArcaneArcher_SleepArrow-01c.ogg",
+  "size": 20001,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bannerbearer_death[op1-SD].ogg",
+  "size": 57549,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_durax_death[op1].ogg",
+  "size": 39655,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Faustus-confirm_01b2.ogg",
+  "size": 23605,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hulkingrage_mining_v2[op1].ogg",
+  "size": 92132,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_stonedruid_bouldersummon.ogg",
+  "size": 31339,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_heehaw_netfalling_v2[op3].ogg",
+  "size": 64499,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_mountedavanger-death[conexplo].ogg",
+  "size": 24320,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_wildmagus_disruptioncast_v2.ogg",
+  "size": 58582,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/StoneDruid_Taunt-03a.ogg",
+  "size": 26262,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/inapp_chin.ogg",
+  "size": 22972,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_forestkeeper_ancientoakspear_LOW_v1+3db.ogg",
+  "size": 50477,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Mage_Taunt[2]-02a.ogg",
+  "size": 11673,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_boombox_box.ogg",
+  "size": 42551,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wilbur_boombox.ogg",
+  "size": 33097,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_guardianlions[spell+roar].ogg",
+  "size": 48451,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-teleportscroll_v2[sinslam].ogg",
+  "size": 51850,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bastion_shot[op1]_modif.ogg",
+  "size": 60262,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_battle2[master_30-10].mp3",
+  "size": 852925,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PrinceDenas-confirm_04a.ogg",
+  "size": 19696,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairytale[summon].ogg",
+  "size": 92750,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ashbite_confirm_v1[op2].ogg",
+  "size": 36011,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_forestkeeper_normalspear_v2-op1.ogg",
+  "size": 22445,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_elvenhighmage_sentinelshot_v2-op1.ogg",
+  "size": 27256,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_sorcapprentice_broom.ogg",
+  "size": 79033,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PapaTree_Ready[2]-01d.ogg",
+  "size": 24762,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_HumanDead3.ogg",
+  "size": 15899,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reg'son-confirm_04a.ogg",
+  "size": 21217,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bolverk_doubleslash[gore].ogg",
+  "size": 63584,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/WildMagus_Ready-01a.ogg",
+  "size": 20258,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcements_01b.ogg",
+  "size": 41374,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_healing_v1.ogg",
+  "size": 25670,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_ultimate[darkangels-cast].ogg",
+  "size": 49012,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/RazzAndRags-death_01a.ogg",
+  "size": 17097,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_mactans_gemattack[op1].ogg",
+  "size": 24158,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_teleport_v1.ogg",
+  "size": 15139,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_specialstomp.ogg",
+  "size": 30010,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/MusicSuspense.ogg",
+  "size": 190732,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_sylvancursecast_v4-op2.ogg",
+  "size": 68929,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_superray_v4[carga].ogg",
+  "size": 57866,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_heehaw_nethitsfloor.ogg",
+  "size": 14929,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairytale[death].ogg",
+  "size": 77920,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_emerge.ogg",
+  "size": 45678,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_regson_bladescast_v3[sinenergia].ogg",
+  "size": 11198,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_wardrums[op2].ogg",
+  "size": 118900,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_HumanDead1.ogg",
+  "size": 16366,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/assassin_gold.ogg",
+  "size": 26781,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Veznan-confirm_03_custom_fb.ogg",
+  "size": 24397,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_ambience_singlebirdandstream.ogg",
+  "size": 69062,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bruce_confirm[2]-04c.ogg",
+  "size": 17386,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hanselandgretel_escape[arpayrisas].ogg",
+  "size": 81547,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gnome_02a.ogg",
+  "size": 39008,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Female-Elven-Archer-01c.ogg",
+  "size": 40820,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_mindoverbody.ogg",
+  "size": 15949,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Eridan_Confirm-01d.ogg",
+  "size": 13303,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_ringoffire_explode_v2.ogg",
+  "size": 48672,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GalhadriansBastion-01c.ogg",
+  "size": 17362,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalskull_touch[conrisa].ogg",
+  "size": 79460,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_lilith_resurrection[op2-conchime].ogg",
+  "size": 62147,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcement-02c.ogg",
+  "size": 12420,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malik_hammer[concaida].ogg",
+  "size": 71188,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_mactans_webground[conhissing].ogg",
+  "size": 70763,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_prebattle2[master_25-08].ogg",
+  "size": 1657374,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_spellcast_[op2].ogg",
+  "size": 95909,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_heehaw_call[op2].ogg",
+  "size": 39114,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_princedenas_sybarite_v1[op1].ogg",
+  "size": 15658,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Shootgun.ogg",
+  "size": 20785,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_death.ogg",
+  "size": 74620,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_activate_v2.ogg",
+  "size": 80633,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_battle1_v4[master_03-11].mp3",
+  "size": 575607,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_highmage_shot.ogg",
+  "size": 32549,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_darkpact_v1.ogg",
+  "size": 16682,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Kingsguard_02c.ogg",
+  "size": 16679,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_polehit2_v3[conhoo].ogg",
+  "size": 7680,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Archers_Taunt-02a.ogg",
+  "size": 13345,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Archers_Taunt-03e.ogg",
+  "size": 11680,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_lightning_op3.ogg",
+  "size": 55413,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_guardianlions-hit[loop-start].ogg",
+  "size": 38941,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/hero_dragon_smoke.ogg",
+  "size": 28262,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lilith_confirm-01d[wet].ogg",
+  "size": 19604,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Durax_01a[wet].ogg",
+  "size": 22951,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bravebark_oakseeds_v1.ogg",
+  "size": 15477,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bram_death[conexplo].ogg",
+  "size": 113622,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bruce_kingsroar[op1-conimpacto].ogg",
+  "size": 55273,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_roadrunner_meepmeep_modif.ogg",
+  "size": 29883,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalray[op1].ogg",
+  "size": 26158,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hammertime[op2].ogg",
+  "size": 12843,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gyro_confirm-01c.ogg",
+  "size": 28071,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_QuestCompleted.ogg",
+  "size": 76487,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_dwarfdeath[barrel].ogg",
+  "size": 15745,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Eridan_Confirm03-01a.ogg",
+  "size": 17152,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Faustus-confirm_04b2.ogg",
+  "size": 18060,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_barezad_fly[loop-op2].ogg",
+  "size": 77047,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_battle2[master_25-08].mp3",
+  "size": 965772,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_maintheme[master_25-08].ogg",
+  "size": 1195969,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_teleport_v1[sinarpa].ogg",
+  "size": 16009,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_raggified_attack.ogg",
+  "size": 64168,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_catha_fairyfury[summon].ogg",
+  "size": 52239,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bolverk_bearcry[op1].ogg",
+  "size": 84273,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_wingflaps-AMB.ogg",
+  "size": 79498,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_witch_outsidecurse[op2].ogg",
+  "size": 46861,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalice.ogg",
+  "size": 26168,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_lightning_op2.ogg",
+  "size": 64860,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Motumbo_jump_special.ogg",
+  "size": 11355,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bravebark-confirm_03d.ogg",
+  "size": 23259,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Veznan_death-[new]01b.ogg",
+  "size": 16109,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_hoplite_summon_v3[singrowl].ogg",
+  "size": 59240,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_boss-shadowstorm[travel].ogg",
+  "size": 40625,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bravebark-confirm_02b.ogg",
+  "size": 30644,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ainyl_disable.ogg",
+  "size": 50765,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_fireegg_v3.ogg",
+  "size": 16941,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Bomb1.ogg",
+  "size": 48371,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Gyro_death-01d.ogg",
+  "size": 12357,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_elementalstorm_v2_op3.ogg",
+  "size": 96999,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PrinceDenas-confirm_03b.ogg",
+  "size": 19863,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_wagonloop[concadenas].ogg",
+  "size": 144362,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_raggified_groundstomp[medium].ogg",
+  "size": 64124,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_spiderin.ogg",
+  "size": 39329,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_godieth_spit.ogg",
+  "size": 43155,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_poisonplant_discharge[conacido]_B.ogg",
+  "size": 56392,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_crystalserpent_crystalshatter.ogg",
+  "size": 47877,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Sorcerer.ogg",
+  "size": 34408,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Coins.ogg",
+  "size": 25163,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_shot[op1_conchime].ogg",
+  "size": 35079,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Arivan_Death-01a.ogg",
+  "size": 12929,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Barrack_Taunt[2]-01c.ogg",
+  "size": 14680,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_RocketLaunt.ogg",
+  "size": 61696,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyTrollDead.ogg",
+  "size": 16400,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Veznan-confirm_01e.ogg",
+  "size": 28178,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Awok_02c.ogg",
+  "size": 32294,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_archanearcher_arcaneexplotion_v3.ogg",
+  "size": 50275,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Arivan_Confirm-02c.ogg",
+  "size": 21665,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_obelix_feed[comic].ogg",
+  "size": 56988,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_bossfight[master].ogg",
+  "size": 2074244,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Level_up.ogg",
+  "size": 8894,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyOrcDead.ogg",
+  "size": 16196,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_princedenas_wealthy_v1[op2].ogg",
+  "size": 9962,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_godieth_attack.ogg",
+  "size": 50522,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_gnome_death[op4].ogg",
+  "size": 26093,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_lightning_op1.ogg",
+  "size": 67337,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Xin-death_01a.ogg",
+  "size": 10617,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-teleportgem_v2[enemiesout].ogg",
+  "size": 48084,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SpiderAttack2.ogg",
+  "size": 20293,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GUITransitionOpen.ogg",
+  "size": 13261,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_MapRoad.ogg",
+  "size": 4229,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_prebattle2[master_25-08].mp3",
+  "size": 827101,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_immolation_v2.ogg",
+  "size": 53418,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_goldenbow_flareshot_v2-convoz.ogg",
+  "size": 75228,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_bladesinger_perfectparry_v2-op2-faded.ogg",
+  "size": 46865,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reg'son-confirm_02c.ogg",
+  "size": 17996,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_fierynutexplotion.ogg",
+  "size": 64129,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_simon_red_v2.ogg",
+  "size": 53156,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faustus_activate[op2].ogg",
+  "size": 34451,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_battle2[master_03-09].ogg",
+  "size": 1651235,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_WinStars.ogg",
+  "size": 40781,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bruce_confirm[2]-02c.ogg",
+  "size": 18882,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PrinceDenas-confirm_02c.ogg",
+  "size": 22075,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_tree_cocothrow.ogg",
+  "size": 19854,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GUITransitionClose.ogg",
+  "size": 26499,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bubblinglava-AMB.ogg",
+  "size": 110038,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reinforcement-04b.ogg",
+  "size": 12644,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_razorboar_charge[sinpisadas].ogg",
+  "size": 47173,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyPuffDead.ogg",
+  "size": 12149,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_xin_pandastyle_v3[op2].ogg",
+  "size": 14468,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_unstablecrystal_ready[op4]_modif.ogg",
+  "size": 41854,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_MapNewFlag.ogg",
+  "size": 18974,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/WildMagus_Doom[2]-01b.ogg",
+  "size": 20574,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/GoldenBows_Mark-01b.ogg",
+  "size": 10832,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_faerydragon_extraability[solochimes].ogg",
+  "size": 70587,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_bossfight_prebattle_v2[master_03-11].mp3",
+  "size": 266761,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-handofmidas[op1].ogg",
+  "size": 44235,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_godieth_death[op2].ogg",
+  "size": 116575,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_hyena_ambience_v4[op1_heavysnors].ogg",
+  "size": 50634,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_SpellSelect.ogg",
+  "size": 15460,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t1_prebattle1_[master_25-08].mp3",
+  "size": 796053,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_spellcast_[op2]_nolaugh.ogg",
+  "size": 83121,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EngineerShot.ogg",
+  "size": 64013,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_victory[master_03-11].ogg",
+  "size": 658097,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_bgmusic_map[master_25-08].ogg",
+  "size": 1406288,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyBigDead.ogg",
+  "size": 24144,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Faustus-confirm_02b2.ogg",
+  "size": 22949,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_spidergoddess_superray_v3[descarga].ogg",
+  "size": 53785,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_shadowspawn_death[op1].ogg",
+  "size": 33973,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Drow_01c.ogg",
+  "size": 16002,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_poisonplant_ready_v2B.ogg",
+  "size": 30658,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_shadowchampion_attack[confuego].ogg",
+  "size": 41282,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t3_prebattle1[master_01-11].mp3",
+  "size": 689852,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Reg'son-confirm_03d.ogg",
+  "size": 20860,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Shrapnel.ogg",
+  "size": 56910,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_veznan_magicshackles_v1[op2]-01.ogg",
+  "size": 11966,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bitteringrancor_lynn-curseofdispair[conprecarga].ogg",
+  "size": 61231,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_inapp-tearofelynie_v2[conlacrimosa].ogg",
+  "size": 97072,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_FireballUnleash.ogg",
+  "size": 30518,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/VarlBerserker_death-01c.ogg",
+  "size": 24780,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_bram_groundstomp.ogg",
+  "size": 64138,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/inapp_cash.ogg",
+  "size": 33730,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bladesinger_BladeDance[2]-01a.ogg",
+  "size": 14377,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_achievement_scissorfingers_v2.ogg",
+  "size": 25501,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_t2_prebattle1[master_30-09].ogg",
+  "size": 1859434,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_malicia_shieldbreak[op1].ogg",
+  "size": 61923,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Bladesinger_PerfectParry[2]-01d.ogg",
+  "size": 20195,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lilith_confirm-04a[wet].ogg",
+  "size": 21609,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_Sniper.ogg",
+  "size": 43347,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_EnemyExplode1.ogg",
+  "size": 22624,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_arcanearcher_sleepingarrow-op1.ogg",
+  "size": 48379,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/PapaTree_Clobberin[2]-01e.ogg",
+  "size": 17503,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_druidhenge_bearattack_v4-op1.ogg",
+  "size": 39866,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_bgmusic_creditos[master].mp3",
+  "size": 1077972,
+  "type": "mp3"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_TowerOpenDoor.ogg",
+  "size": 29568,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_sonofmactans[sinlanding].ogg",
+  "size": 52126,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lilith_confirm-03f[wet].ogg",
+  "size": 22066,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_ambience_spiders_v2[op1].ogg",
+  "size": 42875,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Xin-confirm_04c.ogg",
+  "size": 15990,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Sound_CommonAreaHit.ogg",
+  "size": 20952,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_phoenix_fireegg_activate_v2.ogg",
+  "size": 39675,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kro_sfx_sorcapprentice_book[op1].ogg",
+  "size": 19477,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Arivan_Confirm-03a.ogg",
+  "size": 13781,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/DruidHenge_Ready-01a.ogg",
+  "size": 21542,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kr3_sfx_highmage_timecast.ogg",
+  "size": 89856,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/kre_sfx_arivan_icebolt[hit].ogg",
+  "size": 35322,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/files/Lynn_confirm_04d.ogg",
+  "size": 17384,
+  "type": "ogg"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/sounds.lua",
+  "size": 66698,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/sounds/groups.lua",
+  "size": 21958,
+  "type": "lua"
+ },
+ {
+  "path": "_assets/kr3-desktop/icons/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/kr3-desktop/icons/icon256.png",
+  "size": 63110,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_outline.c",
+  "size": 1679,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_drop_shadow.c",
+  "size": 1884,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_bands.c",
+  "size": 1566,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_edge_blur.c",
+  "size": 1344,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_tint.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/default.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_drop_shadow.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_bands.fbin",
+  "size": 2106,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_outline.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_glow.fbin",
+  "size": 2211,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_none.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_edge_blur.fbin",
+  "size": 1962,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_tint.fbin",
+  "size": 1055,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/default.fbin",
+  "size": 464,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_bands.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_drop_shadow.fbin",
+  "size": 2576,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_none.fbin",
+  "size": 464,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_edge_blur.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_glow.vbin",
+  "size": 1150,
+  "type": "vbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/bgfx/Direct3D11/p_outline.fbin",
+  "size": 2402,
+  "type": "fbin"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_none.c",
+  "size": 224,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_tint.c",
+  "size": 542,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/shaders/p_glow.c",
+  "size": 1488,
+  "type": "c"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/NotoSansCJKjp-Bold.otf",
+  "size": 864616,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/DroidSansMono.ttf",
+  "size": 109052,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/NanumPen.otf",
+  "size": 1780792,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/DroidSans.ttf",
+  "size": 190776,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/ObelixPro.ttf",
+  "size": 66372,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/NotoSansCJKjp-Regular.otf",
+  "size": 840468,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/Heuristica_Italic.otf",
+  "size": 152144,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/JIMOJW.ttf",
+  "size": 8131584,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/JejuHallasan_Regular.ttf",
+  "size": 6678596,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/BMYEONSUNG.otf",
+  "size": 874464,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/Comic Book Italic.ttf",
+  "size": 96300,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/TOONISH.ttf",
+  "size": 14508,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/YIKES.ttf",
+  "size": 92820,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/ZinPenCiro_B.otf",
+  "size": 2029812,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/Sun Yun He Xuan Li Ti.ttf",
+  "size": 6137720,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/ZinHenaBokuryu_CRF.otf",
+  "size": 2966056,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/YIKES-kr-ios.ttf",
+  "size": 100160,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/DroidSansBold.ttf",
+  "size": 194488,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/NotoSansCJKkr-Regular.otf",
+  "size": 2052696,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/tetsubin_gothic.otf",
+  "size": 6107260,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/NotoSansCJKkr-Bold.otf",
+  "size": 2113864,
+  "type": "otf"
+ },
+ {
+  "path": "_assets/all-desktop/fonts/Verdana.ttf",
+  "size": 149752,
+  "type": "ttf"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_64_0002.png",
+  "size": 4470,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_64_0001.png",
+  "size": 4632,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/crosshair.png",
+  "size": 3120,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_48_0001.png",
+  "size": 3115,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_48_0002.png",
+  "size": 3066,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_32_0002.png",
+  "size": 1719,
+  "type": "png"
+ },
+ {
+  "path": "_assets/all-desktop/cursors/hand_32_0001.png",
+  "size": 1774,
+  "type": "png"
+ },
+ {
+  "path": "main.lua",
+  "size": 20379,
+  "type": "lua"
+ },
+ {
+  "path": "conf.lua",
+  "size": 131,
+  "type": "lua"
+ },
+ {
+  "path": "all/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "all/achievements.lua",
+  "size": 6624,
+  "type": "lua"
+ },
+ {
+  "path": "all/game.lua",
+  "size": 34266,
+  "type": "lua"
+ },
+ {
+  "path": "all/templates.lua",
+  "size": 53308,
+  "type": "lua"
+ },
+ {
+  "path": "all/gui_utils.lua",
+  "size": 3595,
+  "type": "lua"
+ },
+ {
+  "path": "all/jni.lua",
+  "size": 20744,
+  "type": "lua"
+ },
+ {
+  "path": "all/screen_splash_custom.lua",
+  "size": 4247,
+  "type": "lua"
+ },
+ {
+  "path": "all/scripts.lua",
+  "size": 159881,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_icloud.lua",
+  "size": 7606,
+  "type": "lua"
+ },
+ {
+  "path": "all/privacy_policy_consent.lua",
+  "size": 8768,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_firebase_a.lua",
+  "size": 4923,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_deep_links.lua",
+  "size": 2678,
+  "type": "lua"
+ },
+ {
+  "path": "all/entity_db.lua",
+  "size": 3914,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_ads.lua",
+  "size": 5886,
+  "type": "lua"
+ },
+ {
+  "path": "all/path_db.lua",
+  "size": 15943,
+  "type": "lua"
+ },
+ {
+  "path": "all/remote_config.lua",
+  "size": 3709,
+  "type": "lua"
+ },
+ {
+  "path": "all/challenges.lua",
+  "size": 25797,
+  "type": "lua"
+ },
+ {
+  "path": "all/screen_comics.lua",
+  "size": 6994,
+  "type": "lua"
+ },
+ {
+  "path": "all/sound_db.lua",
+  "size": 16202,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_storekit.lua",
+  "size": 11959,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_appstore_rating.lua",
+  "size": 1393,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_http.lua",
+  "size": 8508,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_kvideo.lua",
+  "size": 1565,
+  "type": "lua"
+ },
+ {
+  "path": "all/constants.lua",
+  "size": 12645,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_news_ih_https.lua",
+  "size": 6916,
+  "type": "lua"
+ },
+ {
+  "path": "all/restore_views.lua",
+  "size": 5248,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_iap_premium.lua",
+  "size": 2815,
+  "type": "lua"
+ },
+ {
+  "path": "all/grid_a_star.lua",
+  "size": 3786,
+  "type": "lua"
+ },
+ {
+  "path": "all/components.lua",
+  "size": 26440,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_gump.lua",
+  "size": 5929,
+  "type": "lua"
+ },
+ {
+  "path": "all/script_utils.lua",
+  "size": 79430,
+  "type": "lua"
+ },
+ {
+  "path": "all/marketing.lua",
+  "size": 12434,
+  "type": "lua"
+ },
+ {
+  "path": "all/i18n.lua",
+  "size": 2096,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_firebase_dl.lua",
+  "size": 1583,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_xbox.lua",
+  "size": 15690,
+  "type": "lua"
+ },
+ {
+  "path": "all/storage.lua",
+  "size": 14301,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_gamecenter.lua",
+  "size": 5765,
+  "type": "lua"
+ },
+ {
+  "path": "all/game_editor.lua",
+  "size": 27216,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_firebase_rc.lua",
+  "size": 3833,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_firebase_m.lua",
+  "size": 2990,
+  "type": "lua"
+ },
+ {
+  "path": "all/shop_views.lua",
+  "size": 18698,
+  "type": "lua"
+ },
+ {
+  "path": "all/grid_db.lua",
+  "size": 8365,
+  "type": "lua"
+ },
+ {
+  "path": "all/wave_db.lua",
+  "size": 9766,
+  "type": "lua"
+ },
+ {
+  "path": "all/utils.lua",
+  "size": 32296,
+  "type": "lua"
+ },
+ {
+  "path": "all/difficulty.lua",
+  "size": 2514,
+  "type": "lua"
+ },
+ {
+  "path": "all/storage_mappings.lua",
+  "size": 87874,
+  "type": "lua"
+ },
+ {
+  "path": "all/storage_io_generic.lua",
+  "size": 2396,
+  "type": "lua"
+ },
+ {
+  "path": "all/screen_utils.lua",
+  "size": 1498,
+  "type": "lua"
+ },
+ {
+  "path": "all/director.lua",
+  "size": 22166,
+  "type": "lua"
+ },
+ {
+  "path": "all/gg_views.lua",
+  "size": 22200,
+  "type": "lua"
+ },
+ {
+  "path": "all/debug_tools.lua",
+  "size": 9613,
+  "type": "lua"
+ },
+ {
+  "path": "all/screen_splash.lua",
+  "size": 9436,
+  "type": "lua"
+ },
+ {
+  "path": "all/level_utils.lua",
+  "size": 14190,
+  "type": "lua"
+ },
+ {
+  "path": "all/render_utils.lua",
+  "size": 3161,
+  "type": "lua"
+ },
+ {
+  "path": "all/systems.lua",
+  "size": 51862,
+  "type": "lua"
+ },
+ {
+  "path": "all/game_editor_gui.lua",
+  "size": 36739,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services.lua",
+  "size": 2736,
+  "type": "lua"
+ },
+ {
+  "path": "all/game_editor_classes.lua",
+  "size": 13289,
+  "type": "lua"
+ },
+ {
+  "path": "all/http_download_thread.lua",
+  "size": 712,
+  "type": "lua"
+ },
+ {
+  "path": "all/debug_view_editor.lua",
+  "size": 5086,
+  "type": "lua"
+ },
+ {
+  "path": "all/platform_services_utils.lua",
+  "size": 3589,
+  "type": "lua"
+ },
+ {
+  "path": "all/screen_credits.lua",
+  "size": 14451,
+  "type": "lua"
+ },
+ {
+  "path": "all/main_utils.lua",
+  "size": 16149,
+  "type": "lua"
+ },
+ {
+  "path": "log_levels_release.lua",
+  "size": 95,
+  "type": "lua"
+ },
+ {
+  "path": "version.lua",
+  "size": 386,
+  "type": "lua"
+ },
+ {
+  "path": "lib/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "lib/plc/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "lib/plc/rc4.lua",
+  "size": 1506,
+  "type": "lua"
+ },
+ {
+  "path": "lib/plc/bin.lua",
+  "size": 1026,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "lib/klua/crypto.lua",
+  "size": 565,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/dump.lua",
+  "size": 4006,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/shell.lua",
+  "size": 4463,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/vector.lua",
+  "size": 1506,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/plist.lua",
+  "size": 9828,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/macros.lua",
+  "size": 1684,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/dotnet_bfds.lua",
+  "size": 10871,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/lfs.lua",
+  "size": 564,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/persistence.lua",
+  "size": 4618,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/string.lua",
+  "size": 588,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/log.lua",
+  "size": 3653,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/types.lua",
+  "size": 1000,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klua/license.txt",
+  "size": 1351,
+  "type": "txt"
+ },
+ {
+  "path": "lib/klua/table.lua",
+  "size": 4056,
+  "type": "lua"
+ },
+ {
+  "path": "lib/middleclass.lua",
+  "size": 5796,
+  "type": "lua"
+ },
+ {
+  "path": "lib/json.lua",
+  "size": 7117,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "lib/klove/utf8_tables.lua",
+  "size": 5990,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/utf8_string.lua",
+  "size": 403,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/simulation.lua",
+  "size": 3910,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/animation_db.lua",
+  "size": 3160,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/font_db.lua",
+  "size": 6080,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/input_state_machine.lua",
+  "size": 9339,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/kui.lua",
+  "size": 47427,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/kui_db.lua",
+  "size": 4473,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/image_db.lua",
+  "size": 15283,
+  "type": "lua"
+ },
+ {
+  "path": "lib/klove/license.txt",
+  "size": 1355,
+  "type": "txt"
+ },
+ {
+  "path": "lib/klove/shader_db.lua",
+  "size": 2518,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "lib/hump/class.lua",
+  "size": 1479,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/gamestate.lua",
+  "size": 2349,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/signal.lua",
+  "size": 1650,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/vector.lua",
+  "size": 5178,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/README.md",
+  "size": 2219,
+  "type": "md"
+ },
+ {
+  "path": "lib/hump/timer.lua",
+  "size": 5306,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/vector-light.lua",
+  "size": 2471,
+  "type": "lua"
+ },
+ {
+  "path": "lib/hump/camera.lua",
+  "size": 4791,
+  "type": "lua"
+ },
+ {
+  "path": "lib/xmlSimple.lua",
+  "size": 4084,
+  "type": "lua"
+ },
+ {
+  "path": "lib/md5.lua",
+  "size": 11547,
+  "type": "lua"
+ },
+ {
+  "path": "lib/serpent.lua",
+  "size": 8516,
+  "type": "lua"
+ },
+ {
+  "path": "main_globals.lua",
+  "size": 119,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "all-desktop/screen_settings.lua",
+  "size": 16276,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/game_gui.lua",
+  "size": 171851,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/platform_services_steam.lua",
+  "size": 18372,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/platform_services_fairplay.lua",
+  "size": 1130,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/platform_services_kart.lua",
+  "size": 4398,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/screen_slots.lua",
+  "size": 24196,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/screen_map.lua",
+  "size": 157308,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/gg_views_custom.lua",
+  "size": 12249,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/screen_loading.lua",
+  "size": 4053,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/data/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "all-desktop/data/kui_templates/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "all-desktop/data/kui_templates/gamertag_view.lua",
+  "size": 1068,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/data/kui_templates/game_editor_gui.lua",
+  "size": 9661,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/data/font_subst.lua",
+  "size": 5844,
+  "type": "lua"
+ },
+ {
+  "path": "all-desktop/platform_services_rail.lua",
+  "size": 6868,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3/game_templates.lua",
+  "size": 670144,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/game_scripts.lua",
+  "size": 516470,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/upgrades.lua",
+  "size": 11204,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/screen_kr3_end.lua",
+  "size": 2608,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/achievements_handlers.lua",
+  "size": 13011,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/game_settings.lua",
+  "size": 3564,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3/data/tower_menus_data.lua",
+  "size": 27614,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/slot_template.lua",
+  "size": 1961,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/game_debug_data.lua",
+  "size": 2843,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3/data/waves/level07_waves_campaign.lua",
+  "size": 31437,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level17_waves_campaign.lua",
+  "size": 37504,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level12_waves_heroic.lua",
+  "size": 13756,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level02_waves_iron.lua",
+  "size": 3819,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level17_waves_iron.lua",
+  "size": 5420,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level06_waves_heroic.lua",
+  "size": 9237,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level18_waves_iron.lua",
+  "size": 7883,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level10_waves_iron.lua",
+  "size": 4856,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level05_waves_iron.lua",
+  "size": 8848,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level19_waves_heroic.lua",
+  "size": 12890,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level82_waves_endless.lua",
+  "size": 25662,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level04_waves_iron.lua",
+  "size": 2552,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level11_waves_iron.lua",
+  "size": 4144,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level02_waves_heroic.lua",
+  "size": 11181,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level19_waves_iron.lua",
+  "size": 5801,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level19_waves_campaign.lua",
+  "size": 34309,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level16_waves_iron.lua",
+  "size": 4009,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level03_waves_iron.lua",
+  "size": 3941,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level14_waves_campaign.lua",
+  "size": 31211,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level16_waves_heroic.lua",
+  "size": 12206,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level04_waves_campaign.lua",
+  "size": 28904,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level09_waves_campaign.lua",
+  "size": 32220,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level09_waves_heroic.lua",
+  "size": 8140,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level13_waves_heroic.lua",
+  "size": 13032,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level14_waves_iron.lua",
+  "size": 1907,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level01_waves_iron.lua",
+  "size": 2252,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level12_waves_campaign.lua",
+  "size": 31718,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level09_waves_iron.lua",
+  "size": 3194,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level02_waves_campaign.lua",
+  "size": 15957,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level18_waves_heroic.lua",
+  "size": 17440,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level06_waves_iron.lua",
+  "size": 5424,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level13_waves_iron.lua",
+  "size": 3501,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level22_waves_campaign.lua",
+  "size": 18524,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level07_waves_heroic.lua",
+  "size": 9881,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level21_waves_campaign.lua",
+  "size": 17695,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level03_waves_heroic.lua",
+  "size": 10139,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level22_waves_heroic.lua",
+  "size": 6767,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level12_waves_iron.lua",
+  "size": 6684,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level07_waves_iron.lua",
+  "size": 5437,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level08_waves_heroic.lua",
+  "size": 8766,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level08_waves_iron.lua",
+  "size": 8049,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level01_waves_campaign.lua",
+  "size": 7832,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level17_waves_heroic.lua",
+  "size": 15061,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level11_waves_campaign.lua",
+  "size": 38378,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level15_waves_iron.lua",
+  "size": 3353,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level81_waves_endless.lua",
+  "size": 24801,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level20_waves_campaign.lua",
+  "size": 26798,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level04_waves_heroic.lua",
+  "size": 9153,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level21_waves_iron.lua",
+  "size": 3182,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level10_waves_campaign.lua",
+  "size": 30791,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level10_waves_heroic.lua",
+  "size": 10349,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level03_waves_campaign.lua",
+  "size": 32418,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level13_waves_campaign.lua",
+  "size": 28903,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level14_waves_heroic.lua",
+  "size": 11842,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level20_waves_iron.lua",
+  "size": 10167,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level21_waves_heroic.lua",
+  "size": 4931,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level05_waves_heroic.lua",
+  "size": 10060,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level22_waves_iron.lua",
+  "size": 3219,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level05_waves_campaign.lua",
+  "size": 35358,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level08_waves_campaign.lua",
+  "size": 28721,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level18_waves_campaign.lua",
+  "size": 43187,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level15_waves_campaign.lua",
+  "size": 30167,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level11_waves_heroic.lua",
+  "size": 13267,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level15_waves_heroic.lua",
+  "size": 13624,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level16_waves_campaign.lua",
+  "size": 27490,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level06_waves_campaign.lua",
+  "size": 46767,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level20_waves_heroic.lua",
+  "size": 13245,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/waves/level01_waves_heroic.lua",
+  "size": 3368,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/achievements_data.lua",
+  "size": 5381,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/game_animations.lua",
+  "size": 153612,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/",
+  "size": 0,
+  "type": "dir"
+ },
+ {
+  "path": "kr3/data/levels/level09.lua",
+  "size": 9180,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_mactans.lua",
+  "size": 1708,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level01_grid.lua",
+  "size": 13230,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level17_spawner.lua",
+  "size": 3453,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level05_data.lua",
+  "size": 10132,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level04_data.lua",
+  "size": 16195,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level20.lua",
+  "size": 1556,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level22.lua",
+  "size": 1657,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level16_paths.lua",
+  "size": 87324,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level02_paths.lua",
+  "size": 95345,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level16_grid.lua",
+  "size": 13324,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level17_grid.lua",
+  "size": 13533,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level81_data.lua",
+  "size": 17227,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level12_data.lua",
+  "size": 8690,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level13_data.lua",
+  "size": 12203,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level09_paths.lua",
+  "size": 101875,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18.lua",
+  "size": 1608,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level82_paths.lua",
+  "size": 84407,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level10_paths.lua",
+  "size": 99790,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level20_spawner.lua",
+  "size": 1523,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18_data.lua",
+  "size": 6430,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level19_data.lua",
+  "size": 7057,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level22_grid.lua",
+  "size": 13733,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level04_paths.lua",
+  "size": 61212,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level81.lua",
+  "size": 732,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level11_grid.lua",
+  "size": 13891,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level10_grid.lua",
+  "size": 14044,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level82_grid.lua",
+  "size": 13418,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_data.lua",
+  "size": 13941,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level14_data.lua",
+  "size": 13781,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level11_spawner.lua",
+  "size": 3629,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level82.lua",
+  "size": 730,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level03_paths.lua",
+  "size": 48408,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level17_paths.lua",
+  "size": 55165,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level21_data.lua",
+  "size": 9808,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level20_data.lua",
+  "size": 8561,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level22_paths.lua",
+  "size": 87481,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18_spawner.lua",
+  "size": 4773,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level06_grid.lua",
+  "size": 14090,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level07_grid.lua",
+  "size": 14149,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level08_paths.lua",
+  "size": 90665,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level02_data.lua",
+  "size": 18496,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level03_data.lua",
+  "size": 16332,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level08_data.lua",
+  "size": 7964,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level09_data.lua",
+  "size": 14897,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level14_spawner.lua",
+  "size": 9332,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level05_paths.lua",
+  "size": 74628,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level11_paths.lua",
+  "size": 144078,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level19_paths.lua",
+  "size": 70499,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level13_spawner.lua",
+  "size": 2274,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level21_grid.lua",
+  "size": 13528,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level20_grid.lua",
+  "size": 13456,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level21_paths.lua",
+  "size": 35679,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_grid.lua",
+  "size": 13949,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level14_grid.lua",
+  "size": 13619,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level06_spawner.lua",
+  "size": 1202,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level82_data.lua",
+  "size": 8505,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level11_data.lua",
+  "size": 14112,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level10_data.lua",
+  "size": 9442,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level14_paths.lua",
+  "size": 79616,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level08_grid.lua",
+  "size": 14129,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level09_grid.lua",
+  "size": 13375,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level12_paths.lua",
+  "size": 85931,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level02_grid.lua",
+  "size": 12541,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level03_grid.lua",
+  "size": 14438,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level06_paths.lua",
+  "size": 112025,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level14_mactans.lua",
+  "size": 2027,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level06_data.lua",
+  "size": 5593,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level07_data.lua",
+  "size": 7999,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level16_spawner.lua",
+  "size": 1530,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_spawner.lua",
+  "size": 7869,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18_taunts.lua",
+  "size": 1744,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18_paths.lua",
+  "size": 77768,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level01.lua",
+  "size": 1881,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15.lua",
+  "size": 6577,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level17.lua",
+  "size": 1292,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level20_paths.lua",
+  "size": 69195,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level05_grid.lua",
+  "size": 13031,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level04_grid.lua",
+  "size": 14331,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level01_paths.lua",
+  "size": 33546,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_taunts.lua",
+  "size": 1077,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level01_data.lua",
+  "size": 8060,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level15_paths.lua",
+  "size": 101393,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level16.lua",
+  "size": 6528,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level06.lua",
+  "size": 3513,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level22_data.lua",
+  "size": 14540,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level18_grid.lua",
+  "size": 13693,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level19_grid.lua",
+  "size": 13202,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level12_grid.lua",
+  "size": 12727,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level11.lua",
+  "size": 9067,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level05.lua",
+  "size": 2138,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level13_grid.lua",
+  "size": 14135,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level07_paths.lua",
+  "size": 73236,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level81_grid.lua",
+  "size": 13503,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level13_paths.lua",
+  "size": 92343,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level10_spawner.lua",
+  "size": 3164,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level16_data.lua",
+  "size": 8114,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level17_data.lua",
+  "size": 5831,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level81_paths.lua",
+  "size": 105486,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level22_spawner.lua",
+  "size": 1593,
+  "type": "lua"
+ },
+ {
+  "path": "kr3/data/levels/level04.lua",
+  "size": 5266,
+  "type": "lua"
+ }
+]

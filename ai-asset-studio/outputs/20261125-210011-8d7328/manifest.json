@@ -1,0 +1,49 @@
+{
+  "id": "20261125-210011-8d7328",
+  "title": "奇幻风格游戏中的小型怪物",
+  "style": "custom",
+  "prompt": "奇幻风格游戏中的小型怪物",
+  "negative": "text, watermark, logo, blurry, low resolution",
+  "model": "Qwen/Qwen-Image-2.1-Turbo",
+  "size": "1280x720",
+  "steps": 8,
+  "guidance": null,
+  "seed": null,
+  "created": "2026-11-25 21:00:52",
+  "images": [
+    {
+      "index": 1,
+      "status": "完成",
+      "file": "01.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/840bb971-2a6f-425e-8936-3f171ecc31c7.png"
+    },
+    {
+      "index": 2,
+      "status": "完成",
+      "file": "02.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/6425b796-c80c-4e54-8490-c50b67e16226.png"
+    },
+    {
+      "index": 3,
+      "status": "完成",
+      "file": "03.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/e3b19a73-14fb-4acd-a3b5-5b52090f96d0.png"
+    },
+    {
+      "index": 4,
+      "status": "完成",
+      "file": "04.png",
+      "error": null,
+      "url": "https://modelscope-studios.oss-cn-zhangjiakou.aliyuncs.com/aigc/text-to-image/8d2c3f22-ad5a-4a2e-963d-2b116037bc4e.png"
+    }
+  ],
+  "task_ids": [
+    "fc6e508e-63b7-4d3c-b328-e3f3c2e9f5d5",
+    "31bdd82a-b384-4043-9318-a67c6c5de850",
+    "d706eb4c-1ed2-448f-b398-c817ba33ae57",
+    "2abeaf41-3c07-4d48-9217-4c164dae5f98"
+  ]
+}

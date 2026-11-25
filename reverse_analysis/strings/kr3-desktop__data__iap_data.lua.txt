@@ -1,0 +1,21 @@
+ @./kr3-desktop/data/iap_data.lua
+shop_data
+cheapest_item_cost
+wrath_of_elynia
+item_idx
+price
+hand_midas
+item_idx
+price
+rod_dragon_fire
+item_idx
+price
+gem_timewarp
+item_idx
+price
+horn_heroism
+item_idx
+price
+teleport_scroll
+item_idx
+price

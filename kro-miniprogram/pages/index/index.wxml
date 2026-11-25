@@ -1,0 +1,47 @@
+<view class="home">
+    <!-- 加载态 -->
+    <view class="state-box" wx:if="{{viewState === 'checking'}}">
+        <view class="spinner"></view>
+        <text>正在连接云端存档…</text>
+    </view>
+
+    <!-- 未登录 -->
+    <view class="state-box" wx:elif="{{viewState === 'signed-out'}}">
+        <login-panel bind:signedin="onSignedIn" />
+        <text class="hint">首次登录将自动创建云端存档</text>
+    </view>
+
+    <!-- 主菜单 -->
+    <view class="menu-wrap" wx:else>
+        <view class="banner">
+            <view class="sun"></view>
+            <text class="banner-sub">IRONHIDE 经典塔防</text>
+            <text class="banner-title kro-title">王国保卫战</text>
+            <text class="banner-title2 kro-title">起 源</text>
+            <text class="banner-tag">For Elynie! 为了艾纳妮！</text>
+        </view>
+
+        <view class="progress-card parchment">
+            <view class="prog-row">
+                <text class="prog-label">征战进度</text>
+                <text class="prog-value">第 {{progress.unlockedLevel}} 关解锁 · 总分 {{progress.totalScore}}</text>
+            </view>
+        </view>
+
+        <view class="menu-list">
+            <view class="menu-item wood-btn" wx:for="{{menu}}" wx:key="key" data-key="{{item.key}}" bindtap="onMenuTap">
+                <text class="menu-icon">{{item.icon}}</text>
+                <view class="menu-text">
+                    <text class="menu-title">{{item.title}}</text>
+                    <text class="menu-desc">{{item.desc}}</text>
+                </view>
+                <text class="menu-arrow">›</text>
+            </view>
+        </view>
+
+        <view class="footer">
+            <text class="user-line" wx:if="{{user && user.name}}">指挥官：{{user.name}}</text>
+            <text class="logout" bindtap="onLogout">退出登录</text>
+        </view>
+    </view>
+</view>
